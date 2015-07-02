@@ -1,0 +1,44 @@
+Error reading file /vagrant/rtaibah-blog-2/_posts/2009/02/2009-02-15-geeks-partying-like-its-1234567890.markdown: (<unknown>): did not find expected key while 
+parsing a block mapping at line 2 column 1 
+Error reading file /vagrant/rtaibah-blog-2/_posts/2009/02/2009-02-08-googles-voice-search-and-latitude-now-on-android-g1.markdown: (<unknown>): did not find ex
+pected key while parsing a block mapping at line 2 column 1 
+Error reading file /vagrant/rtaibah-blog-2/_posts/2009/02/2009-02-03-howto-multitouch-tethering-task-manager-for-android-g1.markdown: (<unknown>): did not find
+ expected key while parsing a block mapping at line 2 column 1 
+ Error reading file /vagrant/rtaibah-blog-2/_posts/2009/07/2009-07-15-ubuntus-karmic-koala-needs-you.markdown: (<unknown>): did not find expected key while pars
+ ing a block mapping at line 2 column 1 
+ Error reading file /vagrant/rtaibah-blog-2/_posts/2009/08/2009-08-14-the-linuxologist-nominated-for-bloggers-choice-awards-09.markdown: (<unknown>): did not fi
+ nd expected key while parsing a block mapping at line 2 column 1 
+ Error reading file /vagrant/rtaibah-blog-2/_posts/2009/09/2009-09-07-microsofts-best-buy-lies-about-linux-debunked.markdown: (<unknown>): did not find expected
+  key while parsing a block mapping at line 2 column 1 
+  Error reading file /vagrant/rtaibah-blog-2/_posts/2007/12/2007-12-15-its-a-wonderful-internet-but-not-every-pasture.markdown: (<unknown>): did not find expecte
+  d key while parsing a block mapping at line 2 column 1 
+  Error reading file /vagrant/rtaibah-blog-2/_posts/2008/02/2008-02-19-envelopes-15-minutes-of-fame.markdown: (<unknown>): did not find expected key while parsin
+  g a block mapping at line 2 column 1 
+  Error reading file /vagrant/rtaibah-blog-2/_posts/2008/11/2008-11-14-help-spread-linux-without-preaching-it.markdown: (<unknown>): did not find expected key wh
+  ile parsing a block mapping at line 2 column 1 
+  Error reading file /vagrant/rtaibah-blog-2/_posts/2008/11/2008-11-18-a-geeks-guide-how-to-pimp-your-car-with-linux.markdown: (<unknown>): did not find expected
+   key while parsing a block mapping at line 2 column 1 
+   Error reading file /vagrant/rtaibah-blog-2/_posts/2008/11/2008-11-15-microsoft-using-apples-macbook-pro-in-promotional-material.markdown: (<unknown>): did not 
+   find expected key while parsing a block mapping at line 2 column 1 
+   Error reading file /vagrant/rtaibah-blog-2/_posts/2008/05/2008-05-09-linux-a-search-engines-view.markdown: (<unknown>): did not find expected key while parsing
+    a block mapping at line 2 column 1 
+    Error reading file /vagrant/rtaibah-blog-2/_posts/2008/04/2008-04-24-scootch-over-tux-its-gentoo-the-cats-time-now.markdown: (<unknown>): did not find expected
+     key while parsing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/08/2008-08-01-plathomes-will-linux-work-contest.markdown: (<unknown>): did not find expected key while p
+     arsing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/08/2008-08-17-tell-me-your-distro-ill-tell-you-who-you-are.markdown: (<unknown>): did not find expected 
+     key while parsing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/01/2008-01-11-10-governments-running-linux-you-probably-didnt-know-about.markdown: (<unknown>): did not 
+     find expected key while parsing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/01/2008-01-26-stumbleupon-whooping-diggs-ass.markdown: (<unknown>): did not find expected key while pars
+     ing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/09/2008-09-21-why-dont-you-throw-your-cube-in-an-aquarium.markdown: (<unknown>): did not find expected k
+     ey while parsing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/09/2008-09-18-royal-hehe2-ness-gets-an-official-theme-song.markdown: (<unknown>): did not find expected 
+     key while parsing a block mapping at line 2 column 1 
+     Error reading file /vagrant/rtaibah-blog-2/_posts/2008/09/2008-09-28-chromium-googles-browser-on-linux-and-mac.markdown: (<unknown>): did not find expected key
+      while parsing a block mapping at line 2 column 1 
+      Error reading file /vagrant/rtaibah-blog-2/_posts/2008/06/2008-06-06-uk-lug-scene.markdown: (<unknown>): did not find expected key while parsing a block mappin
+      g at line 2 column 1 
+      Error reading file /vagrant/rtaibah-blog-2/_posts/2008/06/2008-06-01-plathome-the-palm-size-linux-server.markdown: (<unknown>): did not find expected key while
+       parsing a block mapping at line 2 column 1
