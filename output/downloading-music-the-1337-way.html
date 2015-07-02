@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Downloading Music the 1337 Way!</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">Rami's Blog </a></h1>
+                <nav><ul>
+                    <li><a href="/">Home</a></li>
+                    <li class="active"><a href="/category/blog.html">blog</a></li>
+                    <li><a href="/category/books.html">books</a></li>
+                    <li><a href="/category/photostream.html">photostream</a></li>
+                    <li><a href="/category/portfolio.html">portfolio</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/downloading-music-the-1337-way.html" rel="bookmark"
+           title="Permalink to Downloading Music the 1337 Way!">Downloading Music the 1337 Way!</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-03-10T00:00:00+03:00">
+                Published: Mon 10 March 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/rami_taibah.html">rami_taibah</a>
+        </address>
+<p>In <a href="/category/blog.html">blog</a>.</p>
+
+</footer><!-- /.post-info -->      <p>**NOTE: This howto is for Linux users. If you are a Windows user go [pay someone ][1]$40 and then [another][2] $15. Good luck.**
+So you are at work and really want a song but just can't get it because torrenting at work is blocked or could really get you in trouble? No problem, why not use [youtube][3]? Chances are that the song is already there on some video, either the official music video or some random compilation!
+Search for a video that has the song you are looking for, then download the video using [keepvid][4] and save it on your desktop. Now you will need a script to convert your newly downloaded video from .flv to .avi. So fire up your favorite text editor and copy this into it:
+``<br />
+#!/bin/sh<br />
+if [ -z "$1" ]; then<br />
+echo "Usage: $0 {-divx|-xvid} list_of_flv_files"<br />
+exit 1<br />
+fi</p>
+<p># video encoding bit rate<br />
+V_BITRATE=1000</p>
+<p>while [ "$1" ]; do<br />
+case "$1" in<br />
+-divx)<br />
+MENC_OPTS="-ovc lavc -lavcopts<br />
+vcodec=mpeg4:vbitrate=$V_BITRATE:mbd=2:v4mv:autoaspect"<br />
+;;<br />
+-xvid)<br />
+MENC_OPTS="-ovc xvid -xvidencopts bitrate=$V_BITRATE:autoaspect"<br />
+;;<br />
+*)<br />
+if file "$1" | grep -q "Macromedia Flash Video"; then<br />
+mencoder "$1" $MENC_OPTS -vf pp=lb -oac mp3lame<br />
+-lameopts fast:preset=standard -o<br />
+"`basename $1 .flv`.avi"<br />
+else<br />
+echo "$1 is not Flash Video. Skipping"<br />
+fi<br />
+;;<br />
+esac<br />
+shift<br />
+done<br />
+``
+Save the file as flv2avi.sh. Next chmod it and move it into your /usr/bin (while you are in the directory of the script)
+`<br />
+sudo chmod a+x flv2avi.sh<br />
+sudo mv flv2avi.sh /usr/bin/flv2avi.sh<br />
+`
+Ok so now we are ready to convert our downloaded .flv file to avi, so run this command (while you are in the directory of the video)
+`flv2avi.sh -divx name_of_file.flv`
+After some crunching you will get a new file called name\_of\_file.avi, all you need now is to strip the sound from the video. Use the following command:
+`mplayer name_of_file.avi -ao pcm:file=temp1.wav `
+Thats it! You got your song in a .wav format. Convert the .wav file into whatever format you prefer <img alt=":)" src="http://192.168.1.2/blog2/wp-includes/images/smilies/icon_smile.gif" />
+** 
+**
+[1]: http://www.flvsoft.com/flv_to_video/purchase.html
+[2]: http://www.avi2divx.com/extract-audio.htm
+[3]: http://www.youtube.com
+[4]: http://keepvid.com</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="http://twitter.com/rtaibah">Twitter</a></li>
+                            <li><a href="http://keybase.io/rami">Keybase</a></li>
+                            <li><a href="http://github.com/rtaibah">Github</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

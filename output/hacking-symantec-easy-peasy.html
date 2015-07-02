@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>'Hacking Symantec: Easy Peasy'</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">Rami's Blog </a></h1>
+                <nav><ul>
+                    <li><a href="/">Home</a></li>
+                    <li class="active"><a href="/category/blog.html">blog</a></li>
+                    <li><a href="/category/books.html">books</a></li>
+                    <li><a href="/category/photostream.html">photostream</a></li>
+                    <li><a href="/category/portfolio.html">portfolio</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/hacking-symantec-easy-peasy.html" rel="bookmark"
+           title="Permalink to 'Hacking Symantec: Easy Peasy'">'Hacking Symantec: Easy Peasy'</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-06-26T00:00:00+03:00">
+                Published: Thu 26 June 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/rami_taibah.html">rami_taibah</a>
+        </address>
+<p>In <a href="/category/blog.html">blog</a>.</p>
+
+</footer><!-- /.post-info -->      <ul>
+<li>Observations</li>
+<li>The Dark Side
+tags: </li>
+</ul>
+<hr />
+<p>Last week, the IT department had an epiphany, they decided to replace Mcafee Anti-Virus with Norton on all employees computers. Since I work in a company technologically retarded, the announcement almost went unnoticed with minimal opposition from all the departments. Only a handful (actually one besides me) didn't like the decision. We discussed it a bit, that Norton is a resource hog, and will probably slow up our systems. However we begrudgingly obliged.</p>
+<p>While I knew that my system was screwed, since I didn't defragment for some time, had loads of unnecessary applications, didn't clean my registry for a few month...etc. You know how XP could become after a couple of month of usage. The Norton installation was like the last nail in my laptops coffin. The system has become so annoyingly slow, that on more than one occasion I almost punched the screen! Switching between applications could take up to 30 seconds, sending out an E-mail would take another 30 seconds, random freezes while typing a document, it really got frustrating. I decided to take matters into my own hands. Step one: be the technological renegade I always been, get rid of Norton!</p>
+<p>So I fire up my Control Panel, and then click on the Add/Remove Programs icon, click on the damn Norton icon and Remove. Oh oh not so fast cowboy, I needed a password:</p>
+<p><a href="File?id=dff3md6g_26frh2g5t7_b"><img alt="" src="http://docs.google.com/a/linuxologist.com/File?id=dff3md6g_26frh2g5t7_b" /></a></p>
+<p>At this point, a lot of ideas crossed my mind, smart guessing, brute force, social engineering...etc. But I decided to appeal to Google, maybe there was a default password I could use. After a quick 30 second Google, I landed on a forum, someone had the same exact problem I had, one suggested to fire up the Task Manager and kill a process run by the user (not System) called Msiexec.exe. My first thought, was NO WAY, it can't be that easy! But decided to try it.</p>
+<p><a href="File?id=dff3md6g_27ftbx77cz_b"><img alt="" src="http://docs.google.com/a/linuxologist.com/File?id=dff3md6g_27ftbx77cz_b" /></a></p>
+<p>Lo and Behold! The uninstallation rolled and I had a Norton free system within a minute!</p>
+<p>Now my question is: is this the kind of security millions of computer users and thousands of corporation depending on? How can such a hack go unnoticed for multiple versions (yes it has been around even for earlier versions) by such a "leading" computer security company? Didn't any one report it? File a bug? Security through obscurity my ass!</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="http://twitter.com/rtaibah">Twitter</a></li>
+                            <li><a href="http://keybase.io/rami">Keybase</a></li>
+                            <li><a href="http://github.com/rtaibah">Github</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

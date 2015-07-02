@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>'Nmap 5.0 Released: Most Important Since 1997!'</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">Rami's Blog </a></h1>
+                <nav><ul>
+                    <li><a href="/">Home</a></li>
+                    <li class="active"><a href="/category/blog.html">blog</a></li>
+                    <li><a href="/category/books.html">books</a></li>
+                    <li><a href="/category/photostream.html">photostream</a></li>
+                    <li><a href="/category/portfolio.html">portfolio</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/nmap-50-released-most-important-since-1997.html" rel="bookmark"
+           title="Permalink to 'Nmap 5.0 Released: Most Important Since 1997!'">'Nmap 5.0 Released: Most Important Since 1997!'</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2009-07-16T00:00:00+03:00">
+                Published: Thu 16 July 2009
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/rami_taibah.html">rami_taibah</a>
+        </address>
+<p>In <a href="/category/blog.html">blog</a>.</p>
+
+</footer><!-- /.post-info -->      <ul>
+<li>Apps
+tags: </li>
+</ul>
+<hr />
+<p>[<img alt="trinity-nmapscreen-hd-crop-1200x728" src="/blog/wp-content/uploads/2009/07/trinity-nmapscreen-hd-crop-1200x728-1024x621.jpg" />][1]
+If you don't know what Nmap is then this probably doesn't interest you and/or not "1337" enough. What's wrong with you?
+Today, insecure.org announced the release of Nmap 5.0, which they consider the most important release since 1997. Their <a href="http://nmap.org/5/">release notes</a> detail the most important changes:
+1. The new [Ncat ][2] tool aims to be your Swiss Army Knife for data transfer, redirection, and debugging.
+2. The addition of the [Ndiff scan comparison tool][3]. Ndiff makes it easy to automatically scan your network daily and report on any changes (systems coming up or going down or changes to the software services they are running).
+3. Nmap performance has [improved dramatically][4]. We spent last summer scanning much of the Internet and merging that data with internal enterprise scan logs to determine the most commonly open ports. This allows Nmap to scan fewer ports by default while finding more open ports.
+4. We released [Nmap Network Scanning][5], the official Nmap guide to network discovery and security scanning. From explaining port scanning basics for novices to detailing low-level packet crafting methods used by advanced hackers, this book suits all levels of security and networking professionals.
+5. The [Nmap Scripting Engine (NSE)][6]: It allows users to write (and share) simple scripts to automate a wide variety of networking tasks. Those scripts are then executed in parallel with the speed and efficiency you expect from Nmap. All existing scripts have been improved, and 32 new ones added.
+They also compiled a new Nmap ASCII dragon! How Cool is that?</p>
+<div class="highlight"><pre> <span class="p">(</span>  <span class="p">)</span>   <span class="o">/</span>   _                 <span class="p">(</span>
+     <span class="o">|</span>  <span class="p">(</span>   <span class="p">(</span> <span class="m">.</span><span class="p">(</span>               <span class="p">)</span>                      _____
+       <span class="sb">`  `</span>   <span class="p">)</span>              <span class="p">(</span>  ___                 <span class="o">/</span> _   
+ <span class="p">(</span>_`    <span class="o">+</span>   <span class="m">.</span> x  <span class="p">(</span> <span class="m">.</span>            <span class="o">/</span>   ____<span class="o">-----------/</span> <span class="p">(</span>o<span class="p">)</span>   _
+<span class="o">-</span> <span class="m">.</span><span class="o">-</span>               <span class="o">+</span>  <span class="p">;</span>          <span class="p">(</span>  O                           ____
+                          <span class="p">)</span>        _____________  `                <span class="o">/</span>
+<span class="p">(</span>__                <span class="o">+-</span> <span class="m">.</span><span class="p">(</span> <span class="o">-</span><span class="s">&#39;.- &lt;. - _  VVVVVVV VV V                /</span>
+<span class="s">(_____            ._._: &lt;_ - &lt;- _  (--_AAAAAAA__A_/                |</span>
+<span class="s">  .    /./.+-  . .- /  +--  - .     ______________//_              _______</span>
+<span class="s">  (__ &#39;</span> <span class="o">/</span>x  <span class="o">/</span> x _<span class="o">/</span> <span class="p">(</span>                                  ___<span class="s">&#39;               /</span>
+<span class="s"> , x / ( &#39;</span>  <span class="m">.</span> <span class="o">/</span> <span class="m">.</span>  <span class="o">/</span>                                      <span class="o">|</span>              <span class="o">/</span>
+    <span class="o">/</span>  <span class="o">/</span>  _<span class="o">/</span> <span class="o">/</span>    <span class="o">+</span>                                      <span class="o">/</span>              <span class="o">/</span>
+   <span class="s">&#39;</span><span class="err">  (__/                                             /</span>
+
+             NMAP IS A POWERFUL TOOL <span class="o">--</span> USE CAREFULLY AND RESPONSIBLY
+</pre></div>
+
+
+<p>[1]: http://192.168.1.33/blog2/wp-content/uploads/2009/07/trinity-nmapscreen-hd-crop-1200x728.jpg
+[2]: http://nmap.org/ncat/
+[3]: http://nmap.org/ndiff/
+[4]: http://nmap.org/5/#changes-performance
+[5]: http://nmap.org/book/
+[6]: http://nmap.org/book/nse.html</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="http://twitter.com/rtaibah">Twitter</a></li>
+                            <li><a href="http://keybase.io/rami">Keybase</a></li>
+                            <li><a href="http://github.com/rtaibah">Github</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
