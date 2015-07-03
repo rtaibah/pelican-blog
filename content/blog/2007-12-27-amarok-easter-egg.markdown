@@ -19,7 +19,7 @@ On [Answer.com](http://www.answers.com/topic/amarok-audio "Answer.com") Amarok p
 
 So I decided to test it out, here is a screen shot:
 
-![Amarok Easter Egg - Mike Oldfield](/images/amarok-easter-egg-mike-oldfield.jpg)
+![Amarok Easter Egg - Mike Oldfield]({filename}/images/amarok-easter-egg-mike-oldfield.jpg)
 
 Oddly enough, Answer.com states that their source is [Wikipedia](http://www.wikipedia.com "Wikipedia"), but this easter egg does not appear in the [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok") article of wiki.
 

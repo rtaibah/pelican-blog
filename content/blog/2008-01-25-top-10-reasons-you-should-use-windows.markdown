@@ -1,11 +1,5 @@
----
-title: Top 10 Reasons You Should Use Windows
-author: rami_taibah
-layout: post
-permalink: /2008/01/25/top-10-reasons-you-should-use-windows/
-categories: blog Humour Microsoft
-tags: Windows Microsoft List Humour
-share: true
+--- title: Top 10 Reasons You Should Use Windows author: Rami Taibah permalink: top-10-reasons-you-should-use-windows
+tags: Windows, Microsoft, Lists, Humour
 
 ---
 
@@ -29,6 +23,6 @@ share: true
 
 10- You are fond of the color blue! After any new hardware installation or system tweak, you appreciate being greeted with blue screens.
 
-![Windows BSOD]({{site.baseurl}}/images/blog/bsod.gif)
+![Windows BSOD]({filename}/images/bsod.gif)
 
 *Thanks to [numerodix](http://www.matusiak.eu/numerodix/blog/) for helping me compiling this list.*

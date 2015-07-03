@@ -9,7 +9,7 @@ summary: Apparently this picture is already popular all over the Internet, but I
 
 Apparently this picture is already popular all over the Internet, but I saw it for the first time a couple of weeks ago in my brother's college physics text book. Anyways I decided to share it, the more the merrier! 
 
-[![Solvay conference 1927: The Greatest Minds of The Twentieth Century](images/solvay-conference-1927-greatest-minds-of-the-twentieth-century.jpg)](images/solvay-conference-1927-greatest-minds-of-the-twentieth-century-large.jpg)
+[![Solvay conference 1927: The Greatest Minds of The Twentieth Century]({filename}/images/solvay-conference-1927-greatest-minds-of-the-twentieth-century.jpg)]({filename}/images/solvay-conference-1927-greatest-minds-of-the-twentieth-century-large.jpg)
 
 *Update [October 14 2014]: Found a [colorized version](/images/solvay-conference-1927-greatest-minds-of-the-twentieth-century-colorized.jpg) of this image too!*
 

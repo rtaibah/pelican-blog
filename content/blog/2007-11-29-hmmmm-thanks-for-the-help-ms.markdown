@@ -16,4 +16,4 @@ When going to Add or Remove Programs in the control panel, you will find small l
 
 No shit, Redmond?
 
-<span class="blog-image">![win_frequency.jpeg](/images/microsoft-windows-defining-frequency.jpeg)</span>
+<span class="blog-image">![win_frequency.jpeg]({filename}/images/microsoft-windows-defining-frequency.jpeg)</span>
