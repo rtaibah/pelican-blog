@@ -24,7 +24,37 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy.html">'HOWTO: Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)'</a></h1>
+                    <h1 class="entry-title"><a href="/wicd-the-solution-for-all-your-linux-wireless-woes.html">'Wicd: The Solution For All Your Linux Wireless Woes!'</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2007-12-26T00:00:00+03:00">
+                Published: Wed 26 December 2007
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/rami-taibah.html">Rami Taibah</a>
+        </address>
+<p>In <a href="/category/blog.html">blog</a>.</p>
+<p>tags: <a href="/tag/linux.html">Linux</a> <a href="/tag/wicd.html">Wicd</a> <a href="/tag/wireless.html">Wireless</a> </p>
+</footer><!-- /.post-info --><hr />
+<p><em>Update: Lately this article has been getting some traffic from StumbleUpon and Reddit, however I would just like to bring to your attention that this is almost 9 month old. I personally haven't used Wicd for quite a long time, not really a fan of wireless. Anyways, my original <a href="http://www.lockergnome.com/linux/2007/10/18/ubuntu-gutsy-wireless-help/">source</a> is currently recommending going back to Network Manager. Proceed at your own risk :) )</em></p>
+<p>Last week I got a phone call from my cousin asking for help with his laptop, and apparently my Linux evangelism paid off and I heard from the other end "Rami, I want you to install Linux on my laptop." Like any Linux geek, I happily obliged. I burned an Ubuntu Gutsy CD and installed it for him. Besides some auto mounting glitches that were fixed fairly quickly, everything went fine.</p>
+<p>However, a few days ago, I got the highly anticipated and dreaded after-call that something wasn't right. He went back to his folks house and he couldn't connect to their wireless network. I sensed trouble instantly, Ubuntu and wireless aren't real good friends. So I headed down there to try to fix his issue. Apparently he needed to have WEP + static IP in order to connect. After a few trial and errors with the Ubuntu Network Manager, it became evident that it is WORTHLESS! It is so buggy and unfriendly I almost gauged my eyeballs!</p>
+<p>So I Googled away, jumping from forum to forum, and blog to another. Nothing seemed to work! after around 3 hours I almost gave up, until I stumbled into a <a href="http://www.lockergnome.com" title="lockergnome">lockergnome</a> <a href="http://www.lockergnome.com/linux/2007/10/18/ubuntu-gutsy-wireless-help/" title="post">post</a> by <a href="http://www.lockergnome.com/author/matt-hartley/">Matt Harley</a>. Now this was not your regular Howto, it was more of a rant (a video one also!), Matt recommended a program called <a href="https://sourceforge.net/project/showfiles.php?group_id=194573" title="wicd">wicd</a>. Abra cadabra it worked!</p>
+<p><a href="https://sourceforge.net/project/showfiles.php?group_id=194573" title="wicd">wicd</a> is such a nice program, I really don't know why Ubuntu (and other distros) don't include it. It is miles ahead of the default Gnome network manager, I can't understand how you can call a network manager a manager if you can't configure each connection by right clicking on it or whatever. With <a href="https://sourceforge.net/project/showfiles.php?group_id=194573" title="wicd">wicd</a> I can add an IP, gateway, subnetwork mask to each connection. I can also choose the type of encryption of each network and add specific scripts!!</p>
+<p>Thank you Matt for sharing your expertise with us, and I will be definitely reading reading your articles <a href="http://www.lockergnome.com" title="lockergnome">lockergnome</a> from now on! :)</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy.html" rel="bookmark"
+                           title="Permalink to 'HOWTO: Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)'">'HOWTO: Linksys WMP54G PCI Wireless Adapter on Ubuntu (Gutsy)'</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2007-10-19T00:00:00+03:00">
                 Published: Fri 19 October 2007
@@ -35,65 +65,15 @@
         </address>
 <p>In <a href="/category/blog.html">blog</a>.</p>
 <p>tags: <a href="/tag/dell.html">Dell</a> <a href="/tag/linux.html">Linux</a> <a href="/tag/ndiswrapper.html">ndiswrapper</a> <a href="/tag/wireless.html">Wireless</a> <a href="/tag/ubuntu.html">Ubuntu</a> </p>
-</footer><!-- /.post-info --><hr />
-<p>I have a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care?) Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!! No Internet connection for me!</p>
-<p>I am not sure if this card is not supported under Gutsy, or just something went awry during the upgrade process (will try a Gutsy live CD later), but i tried using the "Windows Wireless Driver" function but to no avail.</p>
-<p>Anyways, this is how I managed to get my WMP54G to work under Gutsy:</p>
-<p>1- First of all grab the driver from <a href="http://www.linksys.com/servlet/Satellite?blobcol=urldata&amp;blobheadername1=Content-Type&amp;blobheadername2=Content-Disposition&amp;blobheadervalue1=application%2Fx-msdownload&amp;blobheadervalue2=inline%3B+filename%3DWMP54Gv4_20050503.exe&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1130824506903&amp;ssbinary=true&amp;lid=7513643981B16">here</a> (XP not Vista)</p>
-<p>2- Extract the .exe file using any archive manager and place on your desktop (or where ever you wish)</p>
-<p>3- Go to the <a href="http://ndiswrapper.sourceforge.net/joomla/">ndiswrapper homepage</a>, and download the latest release (1.48 to date).</p>
-<p>4- Next we will have to install ndiswrapper, so fire up a terminal and navigate to the folder where you downloaded ndiswrapper.</p>
-<div class="highlight"><pre>tar zxvf ndiswrapper-_version_.tar.gz 
-sudo make uninstall 
-sudo make 
-sudo make install
-</pre></div>
-
-
-<p>5- If everything went as planned, you should have ndiswrapper installed now, next we will need to install the driver. Assuming that the downloaded driver from step 1 is on your desktop: </p>
-<div class="highlight"><pre>ndiswrapper -i ~/Desktop/_WMP54Gversion_/Drivers/WMP54G/Rt2500.INF
-</pre></div>
-
-
-<p>6- Finally you will have to load the ndiswrapper module. </p>
-<div class="highlight"><pre>sudo modprobe ndiswrapper
-</pre></div>
-
-
-<p>7- In my case this didn't really work, which probably explains why using the "Windows Wireless Driver" function didn't work in the first place. So here is the tricky part, apparently Gutsy already loaded my card's module and is conflicting with the new installed driver. So we will have to remove the modules using rmmod.</p>
-<div class="highlight"><pre>sudo rmmod rt2500pci rt2x00pci rt2x00lib
-</pre></div>
-
-
-<p>Thats it! Perhaps you would have to unload ndiswrapper using rmmod and reload it again though.</p>
-<p>8-Finally, you will probably need to cement this in order not to do this everytime you restart, so you will have blacklist the three modules we removed. </p>
-<div class="highlight"><pre>sudo nano /etc/modprobe.d/blacklist
-</pre></div>
-
-
-<p>And add these lines:</p>
-<div class="highlight"><pre>blacklist rt2500pci  
-blacklist rt2x00pci  
-blacklist rt2x00lib
-</pre></div>
-
-
-<p>Also add the ndiswrapper in /etc/modules to automatically load it when booting </p>
-<div class="highlight"><pre>sudo nano /etc/modules
-</pre></div>
-
-
-<p>And add: </p>
-<div class="highlight"><pre>ndiswrapper
-</pre></div>
-
-
-<p>Happy tweaking! </p>
-<p><strong>Finally, if you know of anyway to improve this guide, or have suggestions, or other workarounds. Please comment or E-mail me.</strong></p>                </article>
+</footer><!-- /.post-info -->                <p>I have a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care?) Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!! No Internet connection for me!</p>
+                <a class="readmore" href="/howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+                </ol><!-- /#posts-list -->
 <p class="paginator">
     Page 1 / 1
 </p>
-            </aside><!-- /#featured -->
+                </section><!-- /#content -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>blogroll</h2>

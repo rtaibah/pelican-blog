@@ -1,11 +1,8 @@
 ---
 title: '10 Governments Running Linux You Probably Didnt Know About'
-author: rami_taibah
-layout: post
-permalink: /2008/01/11/10-governments-running-linux-you-probably-didnt-know-about/
-categories: blog
-tags:
-share: true
+author: Rami Taibah
+permalink: 10-governments-running-linux-you-probably-didnt-know-about
+tags: Linux, Brazil, Germany, Austria, Spain, China, France, India, South Korea, Peru, Russia
 
 ---
 
