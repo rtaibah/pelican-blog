@@ -6,7 +6,7 @@ tags: Hulu, Media, Piracy
 
 ---
 
-![Open Hulu Blocked](images/open-hulu-blocked.jpg)
+![Open Hulu Blocked]({filename}/images/open-hulu-blocked.jpg)
 
 With the beta launch of the free TV streaming service [Hulu](http://www.hulu.com "Hulu"), lots of people are scrambling to get their hands on an invite. I for one have submitted to Hulu for an invite since October, and I got nothing. [Mohammed Saleem](http://www.muhammadsaleem.com/ "Mohammed Saleem") did an [interview](http://www.last100.com/2007/12/10/openhulu-setting-hulus-videos-free/ "interview") with [Matt](http://www.minds1anda.com/ "Matt") who found a way to get around the "closed beta" nature of the service without breaking any rules in [OpenHulu.](http://www.openhulu.com "OpenHulu.")
 

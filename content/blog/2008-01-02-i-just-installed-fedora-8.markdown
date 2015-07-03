@@ -11,12 +11,12 @@ I just finished from setting up [Fedora 8](http://docs.fedoraproject.org/release
 
 I will write a full review when I get the chance to fully test out the system, for the time being, here are some Uber cool screen shots: 
 
-![Fedora 8 with KDE and Compiz](images/fedora-8-screenshot-1.png)
+![Fedora 8 with KDE and Compiz]({filename}/images/fedora-8-screenshot-1.png)
 
-![Fedora 8 with KDE and Compiz](images/fedora-8-screenshot-2.png)
+![Fedora 8 with KDE and Compiz]({filename}/images/fedora-8-screenshot-2.png)
 
-![Fedora 8 with KDE and Compiz](images/fedora-8-screenshot-3.png)
+![Fedora 8 with KDE and Compiz]({filename}/images/fedora-8-screenshot-3.png)
 
-![Fedora 8 with KDE and Compiz](images/fedora-8-screenshot-4.png)
+![Fedora 8 with KDE and Compiz]({filename}/images/fedora-8-screenshot-4.png)
 
-![Fedora 8 with KDE and Compiz](images/fedora-8-screenshot-5.png)
+![Fedora 8 with KDE and Compiz]({filename}/images/fedora-8-screenshot-5.png)

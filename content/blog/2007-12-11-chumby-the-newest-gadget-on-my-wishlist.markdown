@@ -8,7 +8,7 @@ Summary: Chumby? What has gotten into you? God it looks ugly! Would you even buy
 
 ---
 
-![Chumby](images/chumby.jpg)
+![Chumby]({filename}/images/chumby.jpg)
 
 Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
 

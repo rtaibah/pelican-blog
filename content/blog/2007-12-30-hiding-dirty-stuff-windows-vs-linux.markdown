@@ -7,11 +7,11 @@ tags: Humour, Linux, Windows
 ---
 **In Windows:**
 
-![Hiding Dirty Stuff In Windows](images/hiding-dirty-stuff-windows.jpg)
+![Hiding Dirty Stuff In Windows]({filename}/images/hiding-dirty-stuff-windows.jpg)
 
 **In Linux:**
 
-![Hiding Dirty Stuff In Linux](images/hiding-dirty-stuff-linux.jpg)
+![Hiding Dirty Stuff In Linux]({filename}/images/hiding-dirty-stuff-linux.jpg)
 
 Paints you a pretty picture eh? :D
 

@@ -8,7 +8,7 @@ tags: Mobile, Android, iPhone, OpenMoko
 
 The Internet has changed the lives of many people, the possibilities it offers are endless. Today we live in a "[web 2.0](http://en.wikipedia.org/wiki/Web_2.0 "web 2.0")" world, which pushed the limits of creativity, collaboration, and sharing of thought. The main players of "web 2.0, the wikis, the social bookmarking sites, photo management sites, blogging ...etc are all tools that we have grown accustomed to. I for one could not imagine myself living without Digg, Google docs, Stumbleupon, Picasa, and a plethora of other tools. However the technologies powering most of these "web 2.0 websites aren't new at all, in fact they have existed for a [long time](http://arstechnica.com/news.ars/post/20060901-7650.html). So why did it take such a long time for "web 2.0 to emerge? I have a theory, read on.
 
-![Web 2.0](images/web2.jpg)
+![Web 2.0]({filename}/images/web2.jpg)
 
 _Let's have a quick trip back to memory lane_: Most observers consider the real birth of the Internet was in 1994\. When the Internet got lots of attention from the public and the media, and started to grow exponentially. Sites started popping up from no where, companies scrambled to have a "web presence," people were talking about it, in short the Internet started to catch on. Things were looking up.
 
