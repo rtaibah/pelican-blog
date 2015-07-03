@@ -1,11 +1,9 @@
 ---
 title: 'Wicd: The Solution For All Your Linux Wireless Woes!'
-author: rami_taibah
-layout: post
-permalink: /2007/12/26/wicd-the-solution-for-all-your-linux-wireless-woes/
-categories: blog Linux
-tags: Linux Wicd Wireless
-share: true
+author: Rami Taibah
+permalink: wicd-the-solution-for-all-your-linux-wireless-woes
+tags: Linux, Wicd, Wireless
+summary: Last week I got a phone call from my cousin asking for help with his laptop, and apparently my Linux evangelism paid off and I heard from the other end "Rami, I want you to install Linux on my laptop." Like any Linux geek, I happily obliged. I burned an Ubuntu Gutsy CD and installed it for him. Besides some auto mounting glitches that were fixed fairly quickly, everything went fine.
 
 ---
 *Update: Lately this article has been getting some traffic from StumbleUpon and Reddit, however I would just like to bring to your attention that this is almost 9 month old. I personally haven't used Wicd for quite a long time, not really a fan of wireless. Anyways, my original [source](http://www.lockergnome.com/linux/2007/10/18/ubuntu-gutsy-wireless-help/) is currently recommending going back to Network Manager. Proceed at your own risk :) )*

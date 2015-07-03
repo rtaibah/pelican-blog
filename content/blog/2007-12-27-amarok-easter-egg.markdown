@@ -1,11 +1,8 @@
 ---
 title: Amarok Easter Egg
-author: rami_taibah
-layout: post
-permalink: /2007/12/amarok-easter-egg/
-categories: blog Linux
-tags: Amarok Easter-Egg
-share: true
+author: Rami Taibah
+permalink: amarok-easter-egg
+tags: Amarok, Easter Egg, Linux
 
 ---
 
@@ -22,7 +19,7 @@ On [Answer.com](http://www.answers.com/topic/amarok-audio "Answer.com") Amarok p
 
 So I decided to test it out, here is a screen shot:
 
-![Amarok Easter Egg - Mike Oldfield]({{site.baseurl}}/images/blog/amarok-easter-egg-mike-oldfield.jpg)
+![Amarok Easter Egg - Mike Oldfield](/images/amarok-easter-egg-mike-oldfield.jpg)
 
 Oddly enough, Answer.com states that their source is [Wikipedia](http://www.wikipedia.com "Wikipedia"), but this easter egg does not appear in the [Amarok](http://en.wikipedia.org/wiki/Amarok_%28software%29 "Amarok") article of wiki.
 

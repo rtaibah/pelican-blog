@@ -1,16 +1,14 @@
 ---
 title: 'HOWTO: Convert A Friend To Linux'
-author: rami_taibah
-layout: post
-permalink: /2007/12/27/howto-convert-a-friend-to-linux/
-categories: blog Linux
-tag: Linux Humor Howto
-share: true
+author: Rami Taibah
+permalink: howto-convert-a-friend-to-linux
+tags: Linux, Humor, Howto
+
+
 ---
 **Warning: You should proceed with caution using this Howto, if you do not know what you are doing you could damage your relationship with Friend 2.0 or totally break it. Also, using this Howto extensively with multiple Friend 2.0's may damage Life 4.5, and end up as a sorrow lonely geek.**
 
-Prerequisites :
---------------
+## Prerequisites :
 
 Before attempting to convert Friend to Linux, there are some major tweaks you need to do. If you already done these tweaks and living by them then good for you, if not then doing this is a MUST:
 
@@ -29,8 +27,7 @@ After a while, and if you are doing things right, a couple versions of Friend wi
 
 Luckily this step will not ruin or break Life, in fact it will probably advance it, and advance Linux popularity as well.  
 
-Before You Proceed:
--------------------
+## Before You Proceed:
 
 All kidding aside, this is the most critical step, converting a friend and not doing it right could damage your relationship with your friend, and if not it WILL damage Linux's image. It will come off as an unfriendly, complicated, and archaic OS. Letting this happen is a disservice to Linux and it's community and will impede it's acceptance among others. Word of mouth could make or break any product, ask me I am a marketeer.
 
@@ -38,18 +35,15 @@ I understand how new converts tend to be overzealous about Linux and want to con
 
 Now this might sound a bit condescending, but let me set the record straight. I am no Linux whiz or genius, in fact I believe I know less than 10% of the amazing world of Linux, but I think I got the basics figured out.
 
-Probing:
---------
+## Probing:
 
 Most of us already have an abstract sense of how "tech savvy" people around us are. Some seem to be technically proficient while others drown in an inch of water. The latter should be immediately excluded from your "conversion sample". Focus on those people that you feel have the interest and the expertise to wade into the waters of Linux. Set your eye on 3 or 4 of them and start preaching.
 
-Preaching:
-----------
+## Preaching:
 
 As I already said earlier, don't come off so hard, be tactful. Don't talk about Linux all day long, there are other cool stuff besides Linux you know. Whenever a technology subject comes up, talk about how Linux can make it better, not the other way around. Don't get offended when someone berates Linux, just calmly argue with him and make your point clear, you don't want to come off as bigoted fanatic do you?
 
-Tools:
-------
+## Tools:
 
 As Linux geeks, we know the true potential and power that Linux could offer. But let's face it, lots of it is just way to geeky for regular folks. Your friend probably won't be impressed if you talk about ssh and how "cool" it is. Nor will he care if you tell him that you can access the source code and manipulate it the way you deem fit. This stuff is just way to complicated for regular folks to get their heads around.
 
@@ -60,15 +54,13 @@ People are suckers for eyecandy, the guys at Redmond probably were banking solel
 In short, keep it simple, don't get too technical! *Talk about GUI's not CLI's!*
 
 
-The Conversion:
----------------
+## The Conversion:
 
 Find out everything your friend needs in his/her machine. This will help you formulate a rough plan on what exactly to install. Be frank and honest, if your friend is a PC gamer, tell him that gaming is Linux's *Achilles heel*. If you are aware of any other limitations that will reduce your friends productivity say it straight out. DON'T CONCEAL!!
 
 If or when you get the nod, proceed to installing everything they might need or require in the future. Setup everything for them. I know you will probably do it from the command line, which will probably intimidate your friend, but politely explain to him that everything you are doing could be done from a GUI (Synaptic, Kuroo, Adept...etc) it's just that you prefer doing it this way. Also, install wine and set it up, but don't tell them about it just yet. Leave them explore open source programs before letting them into this little secret. ;)
 
-After Thoughts:
----------------
+## After Thoughts:
 
 - Do not leave them high and dry! They will probably call because something "isn't working" and/or have other general questions. Arrange for a second meeting to solve them and answer all their enquiries.
 
@@ -82,6 +74,5 @@ After Thoughts:
 
 - Finally, FOLLOW UP! Take the initiative! Don't wait for them to call you. You call them and ask if there are any problems they are facing or if they have any questions.
 
-  
 *I tried to summarize my experience in conversion, while adding some tongue-in-cheek humor at the beginning. So far, in two year I have successfully converted 6 friends to Linux, and many more attempts that were less successful, but dabbled with Linux nonetheless. I hope you find this an interesting read, and if you have any suggestions or ideas that could be added to it please say so ;)*
 
