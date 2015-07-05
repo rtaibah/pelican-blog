@@ -55,11 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
-<<<<<<< HEAD
-
-=======
->>>>>>> 57fb409f8a5c076295263a3c2128d067b6f4cded
 
 .DS_Store
 .pid
+output/**
 

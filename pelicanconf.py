@@ -29,7 +29,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/rtaibah'),
           ('Keybase', 'http://keybase.io/rami'),
-	  ('Github', 'http://github.com/rtaibah'),)
+          ('Github', 'http://github.com/rtaibah'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -44,3 +44,12 @@ LOAD_CONTENT_CACHE = False
 
 # Display sub-pages in the menu
 DISPLAY_PAGES_ON_MENU = True
+
+# Permalink Structure
+ARTICLE_URL = '{category}/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+
+# Static Content
+STATIC_PATHS = ['images', 'pdfs']

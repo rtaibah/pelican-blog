@@ -5,6 +5,7 @@ permalink: how-to-build-a-billion-dollar-app
 categories: Books 
 tags: Books, Apps, Mobile, Startups
 Summary: Started reading 'How To Build A Billion Dollar App' here is a play-by-play summary.
+
 ---
 
 **Start date:** Saturday 18th of October 2014

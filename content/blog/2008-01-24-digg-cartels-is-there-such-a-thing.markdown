@@ -11,8 +11,7 @@ Alright, alright I know I am getting ahead of myself, but you get my gist.
 
 But really, Digg and other social news sites are essentially doing just that. Putting us, the audience in the driving seat. Well at least that's what it used to be over at Digg. Ever since the new "shout" function was introduced, things started to go downhill. Users would submit their stories and shout it left and right, getting 40 or 50 diggs in a couple of hours. Now that would be acceptable if these friends actually liked these stories and voted for them. But the reality couldn't be further! Blind shout digging is rampant! All of us know that, but nobody is really talking about it. It's Digg's big elephant in the room.
 
-Finding The Truth
------------------
+## Finding The Truth
 
 So I decided to do a little experiment of mine, I wanted to measure the "blind shout digging" rate. I have a massive friend's list with 800+ friends, around 300 of whom accept shouts. The idea was to submit a story with the most mundane and stupid title, which would direct to a page saying that this is an experiment...DON'T DIGG!!
 
@@ -31,8 +30,7 @@ So I set up a blog over at blogger.com, and whipped up something quick, essentia
 Now all I had to do is come with the most boring title ever, in order to attract the least amount of attention. Watching a documentary about tropical islands while eating a cheese sandwich left me little to think about. I will call it "Fiji Cheese Club", beat that for boring!! If that interests you then I'd recommend you go to Charles Heston's basement and find the biggest baddest gun and shoot yourself on the spot!
 Anyways, I submitted [the story](http://www.digg.com/travel_places/Fiji_Cheese_Club/who "the story") and shouted out to all my friends, all 307 of them, and sat back and watched with a smirk on my face as people dugg my uber cool story.
 
-The Polls Are In
-----------------
+## The Polls Are In
 
 5 days later, and my story has accumulated 33 diggs, 29 from my friends, 3 from users who need to pay a visit to Mr. Heston, and 1 from me.
 
@@ -42,8 +40,7 @@ In order to get more accurate numbers, I started to eliminate friends who weren'
 
 hmm, 15% "blind shout digging" is that bad? Well considering that the possibility of my shout being lost in the clutter is high, and that I'm not reciprocating with these friends since I have my shouting disabled, then I would suspect that actual numbers could be higher. Taking these two factors into account will probably inflate the percentage, so yes it is bad, very bad!
 
-Solution?
----------
+## Solution?
 
 Well first and foremost, Digg is not a social network, if I want to message my friends I would've gone to Facebook. Digg should provide content that ALL of it's users think is great, **not what the different cartels within Digg think is great**.
 
@@ -53,5 +50,5 @@ In reality, Digg has got a lot to lose if they don't shape up, with users gettin
 
 Whilst the findings of this experiment is not as scandalous, it isn't any less damaging. The shout function is being used to game Digg, and robbing it of it's true essence! A true democratic social news site, from the people to the people!
 
-Edit: Ironically, while I was analyzing the numbers and writing this up, a "mini" revolution against Digg was staged, only to be extinguished quickly by Kevin Rose. Click [here]({filename}/blog/digg-the-lulled-revolution/)
+Edit: Ironically, while I was analyzing the numbers and writing this up, a "mini" revolution against Digg was staged, only to be extinguished quickly by Kevin Rose. Click [here]({filename}/blog/2008-01-24-digg-the-lulled-revolution.markdown)
 
