@@ -1,10 +1,8 @@
----
 title: HOWTO: Install Ubuntu on Your Eee PC
 author: Rami Taibah
 permalink: howto-install-ubuntu-on-your-eee-pc
 tags: eee-pc, ubuntu, howto
 
----
 I have [posted]({filename}/blog/2008-02-06-eee-pcfinally.markdown) earlier that the "easy mode" of the Eee PC is like living on the bottom bunker in a basement cell of the Alcatraz. Liberating it to the default Xandros "advanced mode" is just like going out to yard with sweaty inmates, which isn't saying much.
 
 I initially installed eeexubuntu on that little critter, but soon was disenchanted. XFCE is just not for me. Solution? Install everybody's favorite! Ubuntu!

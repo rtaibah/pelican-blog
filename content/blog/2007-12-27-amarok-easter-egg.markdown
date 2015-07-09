@@ -1,10 +1,8 @@
----
 title: Amarok Easter Egg
 author: Rami Taibah
 permalink: amarok-easter-egg
 tags: Amarok, Easter Egg, Linux
 
----
 
 On [Answer.com](http://www.answers.com/topic/amarok-audio "Answer.com") Amarok page, it states that:
 

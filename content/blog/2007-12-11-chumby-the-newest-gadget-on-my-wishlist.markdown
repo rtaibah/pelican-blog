@@ -1,4 +1,3 @@
----
 title: Chumby: The Newest Gadget On My Wishlist!
 author: Rami Taibah
 layout: post
@@ -6,7 +5,6 @@ permalink: chumby-the-newest-gadget-on-my-wishlist
 tags: Chumby, Gadgets
 Summary: Chumby? What has gotten into you? God it looks ugly! Would you even buy a product called such a childish and pathetic name? Well yes, let's go beyond aesthetics and nomenclature criticism, and let me tell you what this little bad boy can do.
 
----
 
 ![Chumby]({filename}/images/chumby.jpg)
 

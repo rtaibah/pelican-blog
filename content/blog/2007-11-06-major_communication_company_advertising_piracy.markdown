@@ -1,11 +1,9 @@
----
 title: Major Communications Company Advertising Piracy?
 author: Rami Taibah 
 permalink: major_communication_company_advertising_piracy
 tags: Mobily, Pics, WTF
 summary: A couple of weeks ago [Mobily](http://mobily.com.sa), a major mobile carrier in Saudi Arabia (one of two), published this ad in a couple of newspapers. The ad was about their new wireless high-speed Internet service. A huge ass stack of CD's, DVD's and books visual and a copy above the stack said "Download it all, don't worry about the size." 
 
----
 
 A couple of weeks ago [Mobily](http://mobily.com.sa), a major mobile carrier in Saudi Arabia (one of two), published this ad in a couple of newspapers. The ad was about their new wireless high-speed Internet service. A huge ass stack of CD's, DVD's and books visual and a copy above the stack said "Download it all, don't worry about the size." 
 

@@ -1,10 +1,8 @@
----
 title: Envelopes 15 Minutes of Fame!
 author: Rami Taibah
 permalink: envelopes-15-minutes-of-fame
 tags: Macbook Air, humour, parody, Apple
 
----
 
 Thanks to Apple, fitting gadgets into all kinds of envelopes has become some kind of a fad. Only on the Internet where one can shift focus from high-end expensive gadgets to a flat paper container!!
 

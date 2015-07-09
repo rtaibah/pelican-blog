@@ -1,10 +1,8 @@
----
 title: OpenHulu...Not!
 author: Rami Taibah
 permalink: openhulu-not
 tags: Hulu, Media, Piracy
 
----
 
 ![Open Hulu Blocked]({filename}/images/open-hulu-blocked.jpg)
 

@@ -1,10 +1,8 @@
----
 title: An Interview with an Extremadura Developer: Bringing Linux to the Masses
 author: Rami Taibah
 permalink: an-interview-with-spanish-region-extremadura-linux-developer
 tags: Extremadura, Spain, Linux
 
----
 
 I previously [posted]({filename}/blog/2008-01-11-10-governments-running-linux-you-probably-didnt-know-about.markdown) about governments around the world using Linux, doing research on such topic was really insightful. But one example stood out more than any other, and that's no other than the Spanish region of [Extremadura](http://en.wikipedia.org/wiki/Extremadura). Extremadura's migration to Linux is quite remarkable, especially that it is fully backed up by the local government. The whole case really intrigued me, so I decided to explore more about this region's Linux escapades. I sat down with a lead developer of the project Daniel Campos, and had the following discussion:
 

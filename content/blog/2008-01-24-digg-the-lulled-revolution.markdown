@@ -1,11 +1,9 @@
----
 title: Digg: The Lulled Revolution
 author: Rami Taibah
 permalink: digg-the-lulled-revolution
 tags: Digg, Revolution, Kevin Rose, msaleem, zaibatsu, mrbabyman
 summary: Just hours after Kevin Rose's [blog post](http://blog.digg.com/?p=106 "blog post") today, announcing that the Digg algorithm has been changed in a way that would impact how stories were promoted. Kevin's post, like most things on the Internet, was closely scrutinized and different blogs critical of Digg popped up everywhere. Blogs such as [Brent](http://www.brentcsutoras.com/2008/01/23/200-diggs-1-voice-diggers-had-enough/ "Brent"), [Bablin55](http://babblin5.com/2008/01/23/two-diggs-one-cup/ "Bablin55"), and [Soshable ](http://soshable.com/digg-algorithm-change/ "Soshable,")created a lot of noise. [Coincidentally my post about "blind digging"]({filename}/blog/2008-01-24-digg-cartels-is-there-such-a-thing.markdown) was posted at around the time, but admittedly it had nothing to do with these events.
 
----
 
 Just hours after Kevin Rose's [blog post](http://blog.digg.com/?p=106 "blog post") today, announcing that the Digg algorithm has been changed in a way that would impact how stories were promoted. Kevin's post, like most things on the Internet, was closely scrutinized and different blogs critical of Digg popped up everywhere. Blogs such as [Brent](http://www.brentcsutoras.com/2008/01/23/200-diggs-1-voice-diggers-had-enough/ "Brent"), [Bablin55](http://babblin5.com/2008/01/23/two-diggs-one-cup/ "Bablin55"), and [Soshable ](http://soshable.com/digg-algorithm-change/ "Soshable,")created a lot of noise. [Coincidentally my post about "blind digging"]({filename}/blog/2008-01-24-digg-cartels-is-there-such-a-thing.markdown) was posted at around the time, but admittedly it had nothing to do with these events.
 

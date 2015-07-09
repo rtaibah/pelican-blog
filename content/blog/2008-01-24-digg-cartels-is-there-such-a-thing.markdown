@@ -1,10 +1,8 @@
----
 title: Digg Cartels: Is There Such A Thing?
 author: Rami Taibah
 permalink: digg-cartels-is-there-such-a-thing
 tags: Digg, Kevin Rose, Social Media
 
----
 Ahh Digg!! The epitome of social news! the embodiment of a community working together for a common and shared goal; wrestling content from the grips of big media and putting it in the people's hands! Power to the people! Revolution is in the air! If Karl Marx was alive today he would've been proud, especially of [Kevin Rose](http://digg.com/users/kevinrose)!
 
 Alright, alright I know I am getting ahead of myself, but you get my gist.

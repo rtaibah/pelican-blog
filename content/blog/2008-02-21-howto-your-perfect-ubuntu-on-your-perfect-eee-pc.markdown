@@ -1,10 +1,8 @@
----
 title: Howto: Your Perfect Ubuntu on Your Perfect Eee PC
 author: Rami Taibah 
 permalink: howto-your-perfect-ubuntu-on-your-perfect-eee-pc
 tags: eee-pc, Ubuntu, howto
 
----
 Now that you [installed Ubuntu]({filename}/blog/2008-02-11-howto-install-ubuntu-on-your-eee-pc.markdown) on your Eee PC, you will soon realize that something is amiss. Wireless doesn't work, shutdown almost never works, the whole desktop seems to be cramped onto a small screen...etc. Now it's time to perfect our Ubuntu.
 
 **Note: This guide is built on the assumption that you have no swap and that you got madwifi working NOT ndiswrapper.**

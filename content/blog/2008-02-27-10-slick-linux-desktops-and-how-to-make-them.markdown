@@ -1,10 +1,8 @@
----
 title: 10 Slick Linux Desktops, and How To Make Them
 author: Rami Taibah 
 permalink: 10-slick-linux-desktops-and-how-to-make-them
 tags: Eye Candy, Desktops, Linux
 
----
 
 So you thought Vista's desktop looked slick? Or the latest Leopard desktop is coolest thing after sliced bread? Well you probably haven't been properly exposed to Linux's customizability. Linux flexiblity is one of it's strongest selling points. With Linux you can easily even mimic [Vista](http://www.youtube.com/watch?v=WO8MTAfFhGg "Vista") or [Leopard](http://lifehacker.com/software/how-to/make-your-linux-desktop-look-like-a-mac-317110.php "Leopard") totally free! Now I will take you through some of the kewlest, freshest, phatest desktops I have come across.
 
