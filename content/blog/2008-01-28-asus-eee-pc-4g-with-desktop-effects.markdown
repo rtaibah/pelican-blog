@@ -1,10 +1,8 @@
----
 title: Asus eee pc 4G With Desktop Effects
 author: Rami Taibah
 permalink: asus-eee-pc-4g-with-desktop-effects
 tags: eee-pc, Gadgets, Eye Candy
 
----
 
 [Last month]({filename}/blog/2007-12-11-eee-pc-8g-at-newegg.markdown) I reported that the Asus eee pc 8G is available at[Newegg](http://www.newegg.com "Newegg") and that I already placed an order. Well it turns out the [Newegg](http://www.newegg.com "Newegg") sucks!! They cancelled my order because apparently they [don't accept international](http://www.newegg.com/Info/FAQDetail.aspx?Module=2&Menu=detail167%23xdetail167 "don't accept international") American Express cards! Now I would've understood if the shipment was international, but it wasn't! It was supposed to be shipped to NY, to a legal address registered under my credit card! This is 2008 [Newegg](http://www.newegg.com "Newegg")!
 

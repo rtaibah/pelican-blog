@@ -1,11 +1,9 @@
----
 title: The Greatest Minds of the 20th Century
 author: Rami Taibah
 permalink: the-greatest-minds-of-the-20th-century
 tags: Chemistry, Nobel, Physics, Science, Solvay 
 summary: Apparently this picture is already popular all over the Internet, but I saw it for the first time a couple of weeks ago in my brother's college physics text book. Anyways I decided to share it, the more the merrier! 
 
----
 
 Apparently this picture is already popular all over the Internet, but I saw it for the first time a couple of weeks ago in my brother's college physics text book. Anyways I decided to share it, the more the merrier! 
 

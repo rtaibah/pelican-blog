@@ -1,10 +1,8 @@
----
 title: eee pc...Finally!
 author: Rami Taibah
 permalink: eee-pc-finally
 tags: eee-pc, Asus, Gadgets, Xandros, eeexubuntu
 
----
 After a very [arduous]({filename}/blog/2007-12-11-eee-pc-8g-at-newegg.markdown) [journey]({filename}/blog/2008-01-28-asus-eee-pc-4g-with-desktop-effects.markdown), I finally got my hands on the highly coveted [eee pc](http://en.wikipedia.org/wiki/Asus_Eee_PC). I managed to get a 4G model, upgraded to 1GB ram and an 8GB sdhc card for $555 off [ebay](http://ebay.com).
 
 ![eee pc Rami Taibah]({filename}/images/eee-pc-rami-taibah-1.jpg)

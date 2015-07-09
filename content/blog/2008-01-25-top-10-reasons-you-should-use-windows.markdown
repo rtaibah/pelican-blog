@@ -1,10 +1,8 @@
---- 
 title: Top 10 Reasons You Should Use Windows 
 author: Rami Taibah 
 permalink: top-10-reasons-you-should-use-windows
 tags: Windows, Microsoft, Lists, Humour
 
----
 
 1- Because it comes for "free" with your laptop and you might as well use it. Just like that Britney Spears single that was bundled with your CD player.
 

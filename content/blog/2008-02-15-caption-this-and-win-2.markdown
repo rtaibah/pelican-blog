@@ -1,9 +1,7 @@
----
 title: Caption This! And Win!!
 author: Rami Taibah
 permalink: caption-this-and-win
 tags: contest, caption
----
 
 _**The most original post for the below picture will win 50 Bucks!! (payable via paypal).**_
 
