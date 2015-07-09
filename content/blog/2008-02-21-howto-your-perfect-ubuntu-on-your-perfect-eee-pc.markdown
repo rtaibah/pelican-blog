@@ -1,5 +1,5 @@
 ---
-title: 'Howto: Your Perfect Ubuntu on Your Perfect Eee PC'
+title: Howto: Your Perfect Ubuntu on Your Perfect Eee PC
 author: rami_taibah
 layout: post
 permalink: /2008/02/howto-your-perfect-ubuntu-on-your-perfect-eee-pc/

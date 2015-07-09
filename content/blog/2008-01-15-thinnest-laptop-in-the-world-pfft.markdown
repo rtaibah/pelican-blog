@@ -1,5 +1,5 @@
 ---
-title: 'Thinnest Laptop in the World?....Pffft!!'
+title: Thinnest Laptop in the World?....Pffft!!
 author: Rami Taibah
 permalink: thinnest-laptop-in-the-world-pfft
 tags: Macbook Air, Apple, Steve Jobs

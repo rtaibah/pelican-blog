@@ -1,5 +1,5 @@
 ---
-title: "It's A Wonderful Internet...But Not On Every Pasture"
+title: It's A Wonderful Internet...But Not On Every Pasture
 author: Rami Taibah 
 permalink: its-a-wonderful-internet-but-not-every-pasture
 tags: Mobile, Android, iPhone, OpenMoko

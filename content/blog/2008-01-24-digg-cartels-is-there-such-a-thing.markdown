@@ -1,5 +1,5 @@
 ---
-title: 'Digg Cartels: Is There Such A Thing?'
+title: Digg Cartels: Is There Such A Thing?
 author: Rami Taibah
 permalink: digg-cartels-is-there-such-a-thing
 tags: Digg, Kevin Rose, Social Media

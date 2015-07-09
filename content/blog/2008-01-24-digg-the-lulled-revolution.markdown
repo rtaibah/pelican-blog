@@ -1,5 +1,5 @@
 ---
-title: 'Digg: The Lulled Revolution'
+title: Digg: The Lulled Revolution
 author: Rami Taibah
 permalink: digg-the-lulled-revolution
 tags: Digg, Revolution, Kevin Rose, msaleem, zaibatsu, mrbabyman

@@ -1,5 +1,5 @@
 ---
-title: 'An Interview with an Extremadura Developer: Bringing Linux to the Masses'
+title: An Interview with an Extremadura Developer: Bringing Linux to the Masses
 author: Rami Taibah
 permalink: an-interview-with-spanish-region-extremadura-linux-developer
 tags: Extremadura, Spain, Linux

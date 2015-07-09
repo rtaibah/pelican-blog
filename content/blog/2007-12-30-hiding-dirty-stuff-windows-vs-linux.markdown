@@ -1,5 +1,5 @@
 ---
-title: 'Hiding Dirty Stuff: Windows vs. Linux'
+title: Hiding Dirty Stuff: Windows vs. Linux
 author: Rami Taibah
 permalink: hiding-dirty-stuff-windows-vs-linux
 tags: Humour, Linux, Windows

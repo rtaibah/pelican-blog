@@ -1,5 +1,5 @@
 ---
-title: 'Digg: Too Much Info = Garbage!!'
+title: Digg: Too Much Info = Garbage!!
 author: Rami Taibah
 permalink: digg-too-much-info-equals-garbage
 tags: Digg, Social Media, UX

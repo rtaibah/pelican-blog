@@ -1,5 +1,5 @@
 ---
-title: 'eee pc...Finally!'
+title: eee pc...Finally!
 author: Rami Taibah
 permalink: eee-pc-finally
 tags: eee-pc, Asus, Gadgets, Xandros, eeexubuntu
