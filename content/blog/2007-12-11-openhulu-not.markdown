@@ -1,5 +1,5 @@
 ---
-title: 'OpenHulu...Not!'
+title: OpenHulu...Not!
 author: Rami Taibah
 permalink: openhulu-not
 tags: Hulu, Media, Piracy

@@ -1,5 +1,5 @@
 ---
-title: 'HOWTO: Install Ubuntu on Your Eee PC'
+title: HOWTO: Install Ubuntu on Your Eee PC
 author: Rami Taibah
 permalink: howto-install-ubuntu-on-your-eee-pc
 tags: eee-pc, ubuntu, howto

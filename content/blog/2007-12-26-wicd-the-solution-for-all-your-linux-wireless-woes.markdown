@@ -1,5 +1,5 @@
 ---
-title: 'Wicd: The Solution For All Your Linux Wireless Woes!'
+title: Wicd: The Solution For All Your Linux Wireless Woes!
 author: Rami Taibah
 permalink: wicd-the-solution-for-all-your-linux-wireless-woes
 tags: Linux, Wicd, Wireless

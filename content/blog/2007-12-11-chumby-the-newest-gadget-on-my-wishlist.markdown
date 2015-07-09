@@ -1,5 +1,5 @@
 ---
-title: 'Chumby: The Newest Gadget On My Wishlist!'
+title: Chumby: The Newest Gadget On My Wishlist!
 author: Rami Taibah
 layout: post
 permalink: chumby-the-newest-gadget-on-my-wishlist

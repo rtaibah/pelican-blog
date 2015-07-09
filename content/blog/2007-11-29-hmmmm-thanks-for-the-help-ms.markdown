@@ -1,5 +1,5 @@
 ---
-title: 'Hmmmm, thanks for the help MS...'
+title: Hmmmm, thanks for the help MS...
 author: Rami Taibah
 permalink: hmmmm-thanks-for-the-help-ms
 tags: Humour, Microsoft, UX, Windows
