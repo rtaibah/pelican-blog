@@ -1,35 +1,34 @@
----
 title: The 7 Habits of Highly Effective Linux Users
-author: rami_taibah
-layout: post
-permalink: /2008/04/the-7-habits-of-highly-effective-linux-users/
-categories:
-- Advocacy
-- Howto
-tags: 
----
+author: Rami Taibah 
+permalink: the-7-habits-of-highly-effective-linux-users
+tags: Linux
 
-[![Passing it on](http://192.168.1.33/blog2/wp-content/uploads/2008/04/04-olympic-flame4.jpeg)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/04-olympic-flame4.jpeg)Switching to Linux can be very daunting, most seasoned Linux users experienced that first hand. After all, at some point they were also "noobs". However, the Linux community has excelled in making the switch for beginners as easy as possible by providing guides, howtos, tweaks, and general advocacy articles. When I first made the switch 3 years ago, I found the community welcoming me with open hands on forums, IRC channels, and E-mail, I was surprised how helpful these penguins were!
+![Passing it on]({filename}/images/olympic-flame.jpeg)
 
-For this, I feel obliged to give back to the community that has always been there for me. To pass down the torch to newer Linux generations. Over here I compiled a list of 7 habits that I wish someone told me when I started out. I believe that getting into these habits will make the Linux experience more secure, convenient, educational, and ultimately more enjoyable.  
-\# 1-Never Login Using _'root' GUI  
-_ {\#zmk1}
+Switching to Linux can be very daunting, most seasoned Linux users experienced that first hand. After all, at some point they were also "noobs". However, the Linux community has excelled in making the switch for beginners as easy as possible by providing guides, howtos, tweaks, and general advocacy articles. When I first made the switch 3 years ago, I found the community welcoming me with open hands on forums, IRC channels, and E-mail, I was surprised how helpful these penguins were!
+
+For this, I feel obliged to give back to the community that has always been there for me. To pass down the torch to newer Linux generations. Over here I compiled a list of 7 habits that I wish someone told me when I started out. I believe that getting into these habits will make the Linux experience more secure, convenient, educational, and ultimately more enjoyable.
+
+## 1-Never Login Using 'root' GUI  
 
 If there was one habit that one should strictly abide by, it's probably this one. Most of us come from a Windows background, and we have the notion that more power is better, so we login using our administrator accounts. Well let me tell you my friend, that this is a major reason that Windows is plagued with viruses and insecurities, half the world is currently running _'root'_ accounts!
 
-[![Suse on Root](http://192.168.1.33/blog2/wp-content/uploads/2008/04/suse_on_root.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/suse_on_root.png)With great power comes great responsibility, and with _'root'_ powers you should be aware of the consequences of EVERYTHING you're doing, and even then, [mistakes happen](http://lug.wsu.edu/node/414 "mistakes happen"). I remember my beginnings with SUSE Linux, there were lot of administrative tasks I needed to do but had no idea how to go about them without the GUI, so I so innocently log out and login onto the '_root_' GUI. The default wallpaper of the '_root_' GUI on SUSE were lit fuse bombs tiled beside each other. Back then, the symbolism totally flew over my head, coming from a Windows background, I wasn't really doing anything wrong.
+![Suse on Root]({filename}/images/suse_on_root.png)
+
+With great power comes great responsibility, and with _'root'_ powers you should be aware of the consequences of EVERYTHING you're doing, and even then, [mistakes happen](http://lug.wsu.edu/node/414 "mistakes happen"). I remember my beginnings with SUSE Linux, there were lot of administrative tasks I needed to do but had no idea how to go about them without the GUI, so I so innocently log out and login onto the '_root_' GUI. The default wallpaper of the '_root_' GUI on SUSE were lit fuse bombs tiled beside each other. Back then, the symbolism totally flew over my head, coming from a Windows background, I wasn't really doing anything wrong.
 
 But what are the dangers of logging in as root?
 
 1. Well imagine you're on the trapeze without a safety net, frightening isn't it? Well that's effectively what you are doing when you login as root, you can inadvertently hose your whole system
 2. You are at the risk of running malware. Any program that is started under root mode will automatically be given root privileges   
 3. If there is a common security hole that hasn't been patched yet, you could be totally "pwned"
-4. It's common Unix convention, never run anything in root mode unless absolutely necessary. If a non-admin program asks for root access, you should be suspicious
-Generally, instead of logging onto your root GUI, use any of the following techniques:
+4. It's common Unix convention, never run anything in root mode unless absolutely necessary. If a non-admin program asks for root access, you should be suspicious. Generally, instead of logging onto your root GUI, use any of the following techniques:
 
-* Use _"sudo"_ or _"su" _, and kill the session when your done
-* If you don't know how to do it in the command line, use _"gksu"_ or _"kdesu"_. For example, press alt+f2 and type "_gksu nautilus_". Close the app as soon as you finish
-\# 2-Properly Name Your Files
+    * Use _"sudo"_ or _"su"_, and kill the session when your done
+
+    * If you don't know how to do it in the command line, use _"gksu"_ or _"kdesu"_. For example, press alt+f2 and type "_gksu nautilus_". Close the app as soon as you finish
+
+## 2-Properly Name Your Files
 
 In a Linux environment, you can name your files whatever you want except for, 1) the forward slash "/" which is reserved for the root directory, and 2) a null character. Anything else is technically acceptable, however there are some best practices that you should abide by in order to avoid any future complications:
 
@@ -37,19 +36,23 @@ In a Linux environment, you can name your files whatever you want except for, 1)
 * Avoid special symbols like dollar signs, brackets, and percentages. These symbols have special meanings to the shell, and could cause conflicts
 * Avoid using spaces, handling files with spaces in the terminal is kind of awkward. Replace spaces with either hyphens or underscores
 I personally have grown into this habit, I find myself following these guidelines even in a Windows or Mac environment.
-\# 3-Place /home on a Different Partition {\#w9en}
 
-![](/blog/wp-content/uploads/2008/04/screenshot-11-300x30.png)
+## 3-Place /home on a Different Partition 
+
+![Place /home in a different partition]({filename}/images/gparted-home-different-partition.png)
 
 Doing this gives you extreme flexibility, a kind that you never imagined before. Having /home in a separate partition enables you to reinstall your system or even change your whole distro without losing your data and personal settings. Just keep the _"/home"_ partition intact and reinstall whatever you want on your _"/"_. Now you can try out distros as much as you want, without worrying about your data and personal settings, they go with you on the go ;).
 
-If you weren't lucky enough to know this before installing your system, then do not despair![Carthik](http://carthik.net/) from [Ubuntu Blog ](http://ubuntu.wordpress.com/)takes you in a step-by-step guide titled "[Move /home to it's own partition](http://ubuntu.wordpress.com/2006/01/29/move-home-to-its-own-partition/)"
-\# 4-Proper Crash Management {\#dd:-}
+If you weren't lucky enough to know this before installing your system, then do not despair! [Carthik](http://carthik.net/) from [Ubuntu Blog ](http://ubuntu.wordpress.com/)takes you in a step-by-step guide titled "[Move /home to it's own partition](http://ubuntu.wordpress.com/2006/01/29/move-home-to-its-own-partition/)"
 
-![Learn how to avoid this!](http://192.168.1.33/blog2/wp-content/uploads/2008/04/pc_crash11.jpg)Linux is very robust and stable, however every system can come down to it's knees every once in a while. Before you head to CTRL-ALT-DEL, the restart button, or the plug, you should know how to properly handle any crash. As opposed to another un-named operating system, you should be able to easily recover your system without actually restarting! I personally go through different levels, if one doesn't work I elevate it to next step:
+## 4-Proper Crash Management
+
+![Learn how to avoid this!]({filename}/images/pc_crash11.jpg)
+
+Linux is very robust and stable, however every system can come down to it's knees every once in a while. Before you head to CTRL-ALT-DEL, the restart button, or the plug, you should know how to properly handle any crash. As opposed to another un-named operating system, you should be able to easily recover your system without actually restarting! I personally go through different levels, if one doesn't work I elevate it to next step:
 
 1. I have the "force quit" applet on my taskbar, if any app starts to act up just click on the "force quit" icon and then kill the app
-2. If that doesn't work, draw up a terminal and type _"ps -A" , _and take note of the Process ID (PID) of the culprit app, then kill it. "kill PID"
+2. If that doesn't work, draw up a terminal and type "ps -A", and take note of the Process ID (PID) of the culprit app, then kill it. "kill PID"
 3. Use the _"killall"_ command, for example, _"killall firefox-bin"_
 4. If your whole GUI is frozen, and drawing up a terminal is impossible, then press CTRL-ALT-F1, this will take you to another terminal, and virtually a whole new session. From there kill the culprit app using step 2 and 3\.
 5. If that doesn't work, you might want to restart your GUI using the CTRL-ALT-Backspace combo. Beware, that this will kill all your GUI apps currently running  
