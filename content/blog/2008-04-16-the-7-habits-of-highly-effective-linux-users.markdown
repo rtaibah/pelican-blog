@@ -55,16 +55,16 @@ Linux is very robust and stable, however every system can come down to it's knee
 2. If that doesn't work, draw up a terminal and type "ps -A", and take note of the Process ID (PID) of the culprit app, then kill it. "kill PID"
 3. Use the _"killall"_ command, for example, _"killall firefox-bin"_
 4. If your whole GUI is frozen, and drawing up a terminal is impossible, then press CTRL-ALT-F1, this will take you to another terminal, and virtually a whole new session. From there kill the culprit app using step 2 and 3\.
-5. If that doesn't work, you might want to restart your GUI using the CTRL-ALT-Backspace combo. Beware, that this will kill all your GUI apps currently running  
+5. If that doesn't work, you might want to restart your GUI using the CTRL-ALT-Backspace combo. Beware, that this will kill all your GUI apps currently running
 6. Invoke CTRL-ALT-F1 and do CTRL+ALT+DEL from here. This will not instantly reset your system, merely perform a standard reboot, it's safe. (Assuming you want to restart and CTLR-ALT-F1 works)  
 7. Finally if nothing works, don't rush to the hard reset button, try to [Raise a Skinny Elephant](http://www.brunolinux.com/01-First_Things_To_Know/Skinny_Elephants.html)
 
 # 5-Play The Field
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/04/anime-linux-distros.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/anime-linux-distros.png)
+![]({filename}/images/anime-linux-distros.png)
 
-You were probably recruited to your current distro by a friend, it suited you, and stuck with it. That's great, but there is probably something better for you out there. Why not harness the flexibility and richness of Linux and Open Source? Don't be afraid to experiment around with different distros, apps, window managers, and desktops. Experiment until you find the best fit. Think of it this way, if you are currently living in the best place on earth for you, traveling around the world wouldn't really harm right? In fact you might find a better place to live in, but if you didn't, the time you spent traveling would not have gone to waste, you would have learned a lot about other countries, other people and traditions, different ways of thinking, and ultimately had fun!  
-  
+You were probably recruited to your current distro by a friend, it suited you, and stuck with it. That's great, but there is probably something better for you out there. Why not harness the flexibility and richness of Linux and Open Source? Don't be afraid to experiment around with different distros, apps, window managers, and desktops. Experiment until you find the best fit. Think of it this way, if you are currently living in the best place on earth for you, traveling around the world wouldn't really harm right? In fact you might find a better place to live in, but if you didn't, the time you spent traveling would not have gone to waste, you would have learned a lot about other countries, other people and traditions, different ways of thinking, and ultimately had fun!
+
 Every new thing you try out will contribute to your incremental learning, in a year's time you will have a good grasp on Linux and the Open Source world. I personally tried out at least 10 distros, 4 desktops, and 5 window managers. My recent article [Etymology of A Distro](/blog/linux-general/etymology-of-a-distro/ "Etymology of A Distro") got me interested in a couple more distros such as Zenwalk, Foresight, and Sabayon. Play the field, my friend, it will do you good.
 
 But before you proceed, pay heed to these few hints:
@@ -88,9 +88,9 @@ At the end of the day it's just a pseudo-language! Every command is probably jus
 
 # 7-Always Be Ready to Unleash The Power Within
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/04/pendrivelinux.jpg)Personally, I had numerous occasions when a friend asked me to do something on his/her computer, but found myself crippled because of his/her choice of OS. At other times I wanted to do something urgently but the only computer had another crippled OS. Spare yourself the agony, have Linux with you all the time, whether it's on a [USB pendrive](http://www.pendrivelinux.com "USB pendrive"), a live CD, or even a [live CD business card](http://www.damnsmalllinux.org/cd.html "live CD business card") ! There are dozens of good Linuces out there that are perfect for on-the-go computing. [Knoppix](http://www.knoppix.net "Knoppix"), [DSL](http://www.damnsmalllinux.org "DSL"), and [Puppy Linux](http://www.puppylinux.com "Puppy Linux") are just a few examples.
+![]({filename}/images/pendrivelinux.jpg)
 
-I personally don't apply this habit, which is a shame, I really need to get my act together! ![:P](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_razz.gif)
+Personally, I had numerous occasions when a friend asked me to do something on his/her computer, but found myself crippled because of his/her choice of OS. At other times I wanted to do something urgently but the only computer had another crippled OS. Spare yourself the agony, have Linux with you all the time, whether it's on a [USB pendrive](http://www.pendrivelinux.com "USB pendrive"), a live CD, or even a [live CD business card](http://www.damnsmalllinux.org/cd.html "live CD business card") ! There are dozens of good Linuces out there that are perfect for on-the-go computing. [Knoppix](http://www.knoppix.net "Knoppix"), [DSL](http://www.damnsmalllinux.org "DSL"), and [Puppy Linux](http://www.puppylinux.com "Puppy Linux") are just a few examples.
 
-**  
-**
+I personally don't apply this habit, which is a shame, I really need to get my act together! :P
+
