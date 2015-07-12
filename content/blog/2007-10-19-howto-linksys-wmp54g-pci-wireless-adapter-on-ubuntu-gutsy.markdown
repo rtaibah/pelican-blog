@@ -4,7 +4,7 @@ permalink: howto-linksys-wmp54g-pci-wireless-adapter-on-ubuntu-gutsy
 tags: Dell, Linux, ndiswrapper, Wireless, Ubuntu
 summary: I have a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care?) Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!! No Internet connection for me!
 
-I have a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care?) Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!! No Internet connection for me!
+**I have** a Dell sitting in my living room with a Linksys WMP54G PCI wireless adapter installed. The adapter worked just fine under Feisty (well TBH I never got the triangular bars icon of wireless connections but the two terminals of wired connections, but do I care?) Anyways I did upgraded to Gutsy on the 17th, just 1 day shy of its official release, by invoking a 'gksu 'update-manager -c', and to my horror the adapter stopped working!! No Internet connection for me!
 
 I am not sure if this card is not supported under Gutsy, or just something went awry during the upgrade process (will try a Gutsy live CD later), but i tried using the "Windows Wireless Driver" function but to no avail.
 
