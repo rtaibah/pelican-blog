@@ -1,18 +1,14 @@
----
-title: 'Ubuntu Hardy Heron: A First Look'
-author: rami_taibah
-excerpt: "Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations."
-layout: post
-permalink: /2008/04/ubuntu-hardy-heron-a-first-look/
-categories:
-- Advocacy
-- Reviews
-tags: 
----
+title: Ubuntu Hardy Heron: A First Look
+author: Rami Taibah 
+Summary: "Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations."
+permalink: 2008/04/ubuntu-hardy-heron-a-first-look
+tags: Ubuntu, Linux
 
-[![Ubuntu Hardy Heron Splash](/blog/wp-content/uploads/2008/04/hardy_splash-300x136.jpg)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/hardy_splash.jpg)The long awaited release of Ubuntu 8.04 from Canonical has finally arrived, and it's looking great! This version, codenamed Hardy Heron, is only the second LTS (Long Term Support) release, which makes it even more special. The first LTS release from Canonical (Dapper) was when the company was relatively new and unknown. However through the past 2 years, Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations.
+![Ubuntu Hardy Heron Splash]({filename}/images/hardy_splash.jpg)
 
-# **Installation**
+The long awaited release of Ubuntu 8.04 from Canonical has finally arrived, and it's looking great! This version, codenamed Hardy Heron, is only the second LTS (Long Term Support) release, which makes it even more special. The first LTS release from Canonical (Dapper) was when the company was relatively new and unknown. However through the past 2 years, Ubuntu has established itself as one of the most user friendly and easy Linux distro out there. So much expectation revolves around this release, and finally the wait is over! Let's have a quick run down on what Hardy brings on the table, and how it weighs against these expectations.
+
+## Installation
 
 Over the years, I have grown very confident with installing Linux distros, and with Ubuntu it almost makes it a no-brainer, this version is no exception. I didn't notice anything new with the installation process except for the importation tool and some few minor facelifts.
 
@@ -20,57 +16,61 @@ Ubuntu has already introduced a Windows importation tool, which imports your boo
 
 As for the facelifts, a more user friendly time zone selection graphic, instead of having to zoom out of a location, the world map graphic just follows your mouse movement. The other facelift concerns the disk partioning utility, the "Guided Resize" option now tells you exactly how your disk will be partioned after installation with a graphical representation.
 
-[![Now the picture will follow your mouse when you zoom in! :)](/blog/wp-content/uploads/2008/04/screenshot-12-300x240.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/screenshot-12.png)[![](/blog/wp-content/uploads/2008/04/screenshot-3-300x240.png) ](http://192.168.1.33/blog2/wp-content/uploads/2008/04/screenshot-3.png)
+![Now the picture will follow your mouse when you zoom in! :)]({filename}/images/ubuntu-hardy-1.png)
 
-# **New Features**
+![]({filename}/images/ubuntu-hardy-2.png)
 
-**Xorg **Hardy now ships with Xorg 7.3 with emphasis on autoconfiguration. A new resolution utility has been added that enables you to rotate your screen, select your refresh rate, and dual screen support (hopefully haven't tested that last one yet.)
+## New Features
 
-[![](/blog/wp-content/uploads/2008/04/xorg23-273x300.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/xorg23.png)
+**Xorg**: Hardy now ships with Xorg 7.3 with emphasis on auto-configuration. A new resolution utility has been added that enables you to rotate your screen, select your refresh rate, and dual screen support (hopefully; haven't tested that last one yet.)
 
-**Kernel 2.6.24 **and with it the fixes and enhancements that has been added to the mainline kernel. The release notes specifically mentions, dynstick support, which brings power saving options for 64-bit machines, and "[Completely Fair Scheduler](http://kerneltrap.org/node/8059)", which in layman's terms maximizes overall CPU utilization while optimizing interactive performance.
+![Ubuntu Hardy xorg]({filename}/images/ubuntu-hardy-xorg.png)
 
-**Nautilus** has never been better, a lot of new and cool features has been added. For example, on previous Ubuntu versions, if you were to move a file to a folder that you don't have permission to, you would get an error, now you simply get a dialog asking for a password! Performance boosts, undoing accidental file moves, pausing file operations, are all new great features added into this release!
+**Kernel 2.6.24**: and with it the fixes and enhancements that has been added to the mainline kernel. The release notes specifically mentions, dynstick support, which brings power saving options for 64-bit machines, and "[Completely Fair Scheduler](http://kerneltrap.org/node/8059)", which in layman's terms maximizes overall CPU utilization while optimizing interactive performance.
 
-[![The new Nautilus!](/blog/wp-content/uploads/2008/04/nautilus-rc-300x200.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/nautilus-rc.png)
+**Nautilus**: has never been better, a lot of new and cool features has been added. For example, on previous Ubuntu versions, if you were to move a file to a folder that you don't have permission to, you would get an error, now you simply get a dialog asking for a password! Performance boosts, undoing accidental file moves, pausing file operations, are all new great features added into this release!
 
-**PolicyKit **Now you can run administrative tasks without being asked for a password, however if you need to change you can just click on the unlock button. This comes in handy when you need to check something, for example your current DNS server, previously you would need a password, now you can choose Network under Administration and the tool will open up without asking for passwords. Need to change something? Just click on Unlock. PolicyKit also includes an authorization management tool that provides an overview of all the privileged operations exposed through PolicyKit and allows administrators to configure permissions for each individual operation.
+[![The new Nautilus!]({filename}/images/ubuntu-hardy-nautilus.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/nautilus-rc.png)
 
-[![Escalate permissions from within the task. No need to enter a password when opening it!](/blog/wp-content/uploads/2008/04/network1-300x279.png) ](http://192.168.1.33/blog2/wp-content/uploads/2008/04/network1.png)[![Authorizations on Ubuntu Linux Hardy Heron 8.04](/blog/wp-content/uploads/2008/04/authorizations-ubuntu-300x268.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/authorizations-ubuntu.png)
+**PolicyKit**: Now you can run administrative tasks without being asked for a password, however if you need to change you can just click on the unlock button. This comes in handy when you need to check something, for example your current DNS server, previously you would need a password, now you can choose Network under Administration and the tool will open up without asking for passwords. Need to change something? Just click on Unlock. PolicyKit also includes an authorization management tool that provides an overview of all the privileged operations exposed through PolicyKit and allows administrators to configure permissions for each individual operation.
 
-**PulseAudio **A lot have been [raving](http://arstechnica.com/journals/linux.ars/2007/10/17/pulseaudio-to-bring-earcandy-to-linux) about this addition, I would be lying if I were to say I feel the same way, I have never had any problems with sound on my machine(s), so I really can't comment on this one (in all honesty my only use of audio is multimedia). But if you really want to know about PulseAudio, [Ryan Paul from Ars Technica wrote a nice article](http://arstechnica.com/journals/linux.ars/2007/10/17/pulseaudio-to-bring-earcandy-to-linux) about it.
+![Escalate permissions from within the task. No need to enter a password when opening it!]({filename}/images/ubuntu-hardy-network.png) 
 
-**Firefox 3 Beta 5 **This one is the one I am most excited about, even though I have been using Firefox 3 Beta for sometime now, it's nice to see it in a major release like this one. Firefox 3 adds a great deal of new features, such as easier bookmarking, more RSS integration, easier navigation...etc. This one needs a review on it's own! 
+![Authorizations on Ubuntu Linux Hardy Heron 8.04]({filename}/images/ubuntu-hardy-authorizations.png)
 
-[![Firefox 3 Beta 5 on Ubuntu Linux Hardy Heron 8.04](/blog/wp-content/uploads/2008/04/firefox-3-beta-5-ubuntu-300x240.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/firefox-3-beta-5-ubuntu.png)
+**PulseAudio**: A lot have been [raving](http://arstechnica.com/journals/linux.ars/2007/10/17/pulseaudio-to-bring-earcandy-to-linux) about this addition, I would be lying if I were to say I feel the same way, I have never had any problems with sound on my machine(s), so I really can't comment on this one (in all honesty my only use of audio is multimedia). But if you really want to know about PulseAudio, [Ryan Paul from Ars Technica wrote a nice article](http://arstechnica.com/journals/linux.ars/2007/10/17/pulseaudio-to-bring-earcandy-to-linux) about it.
 
-**Transmission **is a new torrent client that replaces the Gnome BitTorrent app. Transmission is much more detailed than it's predecessor (which to me was almost useless), Transmission offers a better GUI and more features and options. But for someone used to Ktorrent or Wine(ing) Utorrent, Transmission still seems lacking.
+**Firefox 3 Beta 5**: This one is the one I am most excited about, even though I have been using Firefox 3 Beta for sometime now, it's nice to see it in a major release like this one. Firefox 3 adds a great deal of new features, such as easier bookmarking, more RSS integration, easier navigation...etc. This one needs a review on it's own! 
 
-[![Transmission the new Bit Torrent Client for Ubuntu Linux Hardy Heron 8.04](/blog/wp-content/uploads/2008/04/transmission-gtk-300x214.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/transmission-gtk.png)
+![Firefox 3 Beta 5 on Ubuntu Linux Hardy Heron 8.04]({filename}/images/ubuntu-hardy-firefox-3-beta-5.png)
 
-**Vinagre VNC Client **I don't have much use of this, but it is definitely a step forward. Vinagre brings you the possibility of connecting to multiple desktops at the same time! Has a bookmarking option, so you can quickly connect to your favorite VNC server, and has the ability to detect servers via Avahi!
+**Transmission**: is a new torrent client that replaces the Gnome BitTorrent app. Transmission is much more detailed than it's predecessor (which to me was almost useless), Transmission offers a better GUI and more features and options. But for someone used to Ktorrent or Wine(ing) Utorrent, Transmission still seems lacking.
 
-[![Vinagre VNC Veiwer on Ubuntu Linux Hardy Heron 8.04; View more than one desktop!](/blog/wp-content/uploads/2008/04/vinagre-rc2-300x230.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/vinagre-rc2.png)
+![Transmission the new Bit Torrent Client for Ubuntu Linux Hardy Heron 8.04]({filename}/images/ubuntu-hardy-transmission.png)
 
-**Brasero **replaces Serpentine Audio CD Creator. Brasero is miles ahead of Serpentine, in fact I don't think I ever used Serpentine, I usually install Gnomebaker or k3b right after a fresh installation. Brasero seems to be a good replacement for these two apps, which is nice to see bundled with a fresh install. With Brasero you can create audio CDs, data CDs, burn images, burn DVD, the whole works, unlike Serpentine! (what were they thinking with Serpentine?)
+**Vinagre VNC Client**: I don't have much use of this, but it is definitely a step forward. Vinagre brings you the possibility of connecting to multiple desktops at the same time! Has a bookmarking option, so you can quickly connect to your favorite VNC server, and has the ability to detect servers via Avahi!
 
-[![Brasero, a replacement for Serpentine on Ubuntu Linux Hardy Heron 8.04](/blog/wp-content/uploads/2008/04/brasero-300x216.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/brasero.png)
+![Vinagre VNC Veiwer on Ubuntu Linux Hardy Heron 8.04; View more than one desktop!]({filename}/images/ubuntu-hardy-vinagre.png)
 
-**World Clock Applet **is a nice new feature especially for people on the go, now your clock can display multiple cities around the world, and even change your timezone on the fly! Not only that, it shows you the weather to a somewhat comprehensive degree, telling you temperature, wind direction, wind speed, sunrise and sunset times!  
+**Brasero**: replaces Serpentine Audio CD Creator. Brasero is miles ahead of Serpentine, in fact I don't think I ever used Serpentine, I usually install Gnomebaker or k3b right after a fresh installation. Brasero seems to be a good replacement for these two apps, which is nice to see bundled with a fresh install. With Brasero you can create audio CDs, data CDs, burn images, burn DVD, the whole works, unlike Serpentine! (what were they thinking with Serpentine?)
 
-[![](/blog/wp-content/uploads/2008/04/screenshot-weather-128x300.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/screenshot-weather.png)
+![Brasero, a replacement for Serpentine on Ubuntu Linux Hardy Heron 8.04]({filename}/images/ubuntu-hardy-brasero.png)
 
-**Security **has been beefed up, which is always a welcome. Hardy now includes a command line app called "uncomplicated firewall", which is a bit deceitful. If you are used to a GUI firewall app, then this is definitely complicated. Just run "man ufw" read it, and you will get it in no time. Another security enforcement was adding additional checks to access memory, this should defend against rootkits and other malicious code.
+**World Clock Applet **: is a nice new feature especially for people on the go, now your clock can display multiple cities around the world, and even change your timezone on the fly! Not only that, it shows you the weather to a somewhat comprehensive degree, telling you temperature, wind direction, wind speed, sunrise and sunset times!  
 
-**Wubi **when the Windows importing tool was added to the installation process a couple of versions back, it was lauded as a great tool to lower the switching barrier. Well with Wubi, this barrier has been totally obliterated! Now with Wubi, any Windows user can install Ubuntu from within their Windows environment, and not even partition their disk! Wubi is a great tool for people who are on the fence, or love to experiment. Go ahead dabble a bit in the Linux pool. 
+![Ubuntu Hardy World Clock Applet]({filename}/images/ubuntu-hardy-clock-applet.png)
 
-[![Come dabble a bit in the Ubuntu Linux pool, use Wubi](/blog/wp-content/uploads/2008/04/wubi-300x187.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/04/wubi.png)
+**Security**: has been beefed up, which is always a welcome. Hardy now includes a command line app called "uncomplicated firewall", which is a bit deceitful. If you are used to a GUI firewall app, then this is definitely complicated. Just run "man ufw" read it, and you will get it in no time. Another security enforcement was adding additional checks to access memory, this should defend against rootkits and other malicious code.
+
+**Wubi**: when the Windows importing tool was added to the installation process a couple of versions back, it was lauded as a great tool to lower the switching barrier. Well with Wubi, this barrier has been totally obliterated! Now with Wubi, any Windows user can install Ubuntu from within their Windows environment, and not even partition their disk! Wubi is a great tool for people who are on the fence, or love to experiment. Go ahead dabble a bit in the Linux pool. 
+
+![Come dabble a bit in the Ubuntu Linux pool, use Wubi]({filename}/images/ubuntu-hardy-wubi.png)
 
 **Eye Candy **to be honest I was never a fan of the color brown, and I always hated that choice by Canonical. Hardy Heron is no exception, however the default wallpaper now has a color different than brown! It now includes yellow, red, and orange creating a nice artistic [heron](http://en.wikipedia.org/wiki/Heron). Desktop effects, as usual worked like a charm, however I wish that they would include a more comprehensive menu option, not only 3 (none, normal, extra) what are we using Windows all the sudden? I hope they throw in Compiz Configuration applet soon.
 
 **Other Quickies:**
 
-* Totem****the default media player comes now bundled with a plugin that enables you to search and play youtube videos directly on the player!
+* Totem the default media player comes now bundled with a plugin that enables you to search and play youtube videos directly on the player!
 * Google Calendars support for Evolution!
 * Ubuntu 8.04 LTS includes support for SELinux in the Universe repository
 * Hardy Heron comes bundled with OpenOffice.org 2.4, which has [tons of new features](http://wiki.services.openoffice.org/wiki/New_Features_2.4)
