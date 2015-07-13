@@ -1,12 +1,8 @@
----
 title: A Linux Family Tragedy
-author: rami_taibah
-layout: post
-permalink: /2008/05/a-linux-family-tragedy/
-categories:
-- Humor
-tags: 
----
+author: Rami Taibah 
+permalink: a-linux-family-tragedy/
+tags: Humour, Linux
 
-[![Linux Family Tragedy](http://192.168.1.33/blog2/wp-content/uploads/2008/05/2nbt2lf.png)](http://192.168.1.33/blog2/wp-content/uploads/2008/05/2nbt2lf.png)
+![Linux Family Tragedy]({filename}/images/linux-family-tragedy.png)
+
 Am in tears!
