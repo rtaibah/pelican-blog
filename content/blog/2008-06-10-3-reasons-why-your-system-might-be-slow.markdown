@@ -31,7 +31,7 @@ The impact of both cpu heavy and I/O heavy programs can be mitigated by tuning t
 
 ### How it happens
 
-![Infinite Loop Avenue?](/blog/wp-content/uploads/2008/06/infiniteloop-300x199.jpg)
+![Infinite Loop Avenue?]({filename}/images/infiniteloop.jpeg)
 
 The most common cycle for a program is to 1) accept some input, 2) do some work, 3) give some output. And this sequence is repeated for as long as the program is running. Typically, the work that has to be done takes a very short time compared to the time spent waiting for input, which gives all the other running programs a chance to use the cpu in the meantime.
 
@@ -47,18 +47,18 @@ Hit **Ctrl+C** when you've had enough.
 
 ### How to detect it
 
-The easiest way to check for a cpu bound program is to use \*\*top\*\*. See if there is a program that's using almost 100% of the cpu. To be sure that it doesn't just occasionally spike leave it running for a while (or hit to refresh the display a few times).
+The easiest way to check for a cpu bound program is to use **top**. See if there is a program that's using almost 100% of the cpu. To be sure that it doesn't just occasionally spike leave it running for a while (or hit to refresh the display a few times).
 
     $ top
-    Cpu0  : **98.2%us**,  1.8%sy,  0.0%ni,  **0.0%id**,  0.0%wa,  0.0%hi,  0.0%si
+    Cpu0  : 98.2%us,  1.8%sy,  0.0%ni,  0.0%id,  0.0%wa,  0.0%hi,  0.0%si
     Cpu1  :  1.4%us,  0.5%sy,  0.0%ni, 98.2%id,  0.0%wa,  0.0%hi,  0.0%si
     
       PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND
-    26210 alex      20   0 19428 2368 1492 R   **99**  0.1   1:14.27 bash
+    26210 alex      20   0 19428 2368 1492 R   99  0.1   1:14.27 bash
      4075 alex      20   0  606m 195m  28m S    0  6.5  23:19.58 firefox
      6337 root      20   0  505m 116m 6716 S    0  3.9  34:30.25 Xorg
 
-Here we see that cpu0 is idle (free) 0% of the time, which means it is as busy as it possibly can be. 98.2% is due to user programs (ie. the program we just demonstrated). And when we look in the list of programs, we see that \*bash\* (the shell in which we ran our one-liner) is using 99% of the cpu.
+Here we see that cpu0 is idle (free) 0% of the time, which means it is as busy as it possibly can be. 98.2% is due to user programs (ie. the program we just demonstrated). And when we look in the list of programs, we see that **bash** (the shell in which we ran our one-liner) is using 99% of the cpu.
 
 ### What you can do about it
 
@@ -69,7 +69,7 @@ If you're running a program that does a lot of work on purpose, for instance a v
 
 The first number you give to *renice* describes how "nice" you are being to other programs, on a scale from -20 (very selfish) to 20 (very nice). The other number is the process id (pid) of the program, which is listed by *top* above. Doing this will probably still make *bash* use almost 100% of the cpu, but not at the expense of the other programs.
 
-On the other hand, if the program isn't supposed to be using this much cpu, then it's either a bug in the program (certain versions of firefox used to spike to 100% cpu) or it's just heavier than the cpu can handle. You can still \*renice\* the program, but this will make your system more responsive at the expense of the program (so for instance, firefox may become unusable). The last resort is to **kill** it:
+On the other hand, if the program isn't supposed to be using this much cpu, then it's either a bug in the program (certain versions of firefox used to spike to 100% cpu) or it's just heavier than the cpu can handle. You can still *renice* the program, but this will make your system more responsive at the expense of the program (so for instance, firefox may become unusable). The last resort is to **kill** it:
 
     $ kill 26210
 
@@ -89,7 +89,7 @@ The effect of this situation is that your system will feel normal for some of th
 
 ### Demonstration
 
-This effect is best demonstrated with a desktop program. Start the [gimp](http://gimp.org) and create a canvas so large that it exceeds your available physical memory. For instance, try a canvas 10,000×10,000 pixels (\*gimp\* will tell you how much memory it needs to create it). It will probably take a while to create the canvas, so just let it finish. (In order to make room for this image in memory, other programs are being moved into swap, this is called \*\*swapping\*\*.) Then do some painting on the canvas. Now switch back to another program (firefox, for instance). You should now sense that your system is slow to respond, but this is temporary for as long as it takes to restore firefox into memory.
+This effect is best demonstrated with a desktop program. Start the [gimp](http://gimp.org) and create a canvas so large that it exceeds your available physical memory. For instance, try a canvas 10,000×10,000 pixels (*gimp* will tell you how much memory it needs to create it). It will probably take a while to create the canvas, so just let it finish. (In order to make room for this image in memory, other programs are being moved into swap, this is called **swapping**.) Then do some painting on the canvas. Now switch back to another program (firefox, for instance). You should now sense that your system is slow to respond, but this is temporary for as long as it takes to restore firefox into memory.
 
 ### How to detect it
 
@@ -97,25 +97,25 @@ It's a good idea to know how much memory your system uses under normal condition
 
     $ free -m
                  total       used       free     shared    buffers     cached
-    Mem:          **3015**       1640       1375          0          9        124
-    -/+ buffers/cache:       1505       **1509**
-    Swap:         2878          ****       2878
+    Mem:          3015       1640       1375          0          9        124
+    -/+ buffers/cache:       1505       1509
+    Swap:         2878                  2878
 
 Here we see that we have 3015mb of physical memory, half of which is free. We also have almost as much swap memory, but none of that is in use.
-After we create our huge canvas with the \*gimp\* we can run \*free\* again and see what has changed.
+After we create our huge canvas with the *gimp* we can run *free* again and see what has changed.
 
     $ free -m
                  total       used       free     shared    buffers     cached
     Mem:          3015       2993         22          0          2        957
     -/+ buffers/cache:       2033        982
-    Swap:         2878        **819**       2059
+    Swap:         2878        819       2059
 
 We're now using 819mb of swap memory, so clearly we've exceeded the capacity of physical memory.
 
-While *swapping* takes place *top* will also show that there is a lot of I/O activity taking place. (Press \*\*Shift+M\*\* to sort the program listing by memory use.)
+While *swapping* takes place *top* will also show that there is a lot of I/O activity taking place. (Press **Shift+M** to sort the program listing by memory use.)
 
     $ top
-    Cpu(s):  **4.0%us**,  **1.6%sy**,  0.0%ni, **51.0%id**, **42.1%wa**,  0.6%hi,  0.8%si
+    Cpu(s):  4.0%us,  1.6%sy,  0.0%ni, 51.0%id, 42.1%wa,  0.6%hi,  0.8%si
     Mem:   3088224k total,  3043496k used,    44728k free,     3548k buffers
     Swap:  2947888k total,   998812k used,  1949076k free,   957956k cached
     
@@ -137,7 +137,7 @@ A program running on the cpu, which does a lot of io (such as reading/writing la
 
 ### Demonstration
 
-We can demonstrate the effect of heavy io by reading and writing a lot of data to the harddrive. Here we find the device that your root partition is on (probably \*/dev/sda1\*) and then read 5gb from it, writing it to a file \*/tmp/dummy\* (you may want to check that you have enough free space).
+We can demonstrate the effect of heavy io by reading and writing a lot of data to the harddrive. Here we find the device that your root partition is on (probably */dev/sda1*) and then read 5gb from it, writing it to a file */tmp/dummy* (you may want to check that you have enough free space).
 
     $ device=`mount | grep " / " | awk '{ print $1 }'`
     $ sudo dd if=$device of=/tmp/dummy bs=5120 count=1048576
@@ -149,11 +149,11 @@ This should take around 10 minutes, so you can see how your system behaves while
 We can detect heavy io with *top*.
 
     $ top
-    Cpu0  : 13.7%us,  6.5%sy,  0.0%ni,  0.0%id, **79.0%wa**,  0.8%hi,  0.0%si
+    Cpu0  : 13.7%us,  6.5%sy,  0.0%ni,  0.0%id, 79.0%wa,  0.8%hi,  0.0%si
     Cpu1  :  4.7%us,  3.9%sy,  0.0%ni, 73.2%id, 17.3%wa,  0.8%hi,  0.0%si
     
       PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND
-    30956 root      20   0 10388 1812  640 **D**    **5**  0.1   0:02.76 dd
+    30956 root      20   0 10388 1812  640 D    5  0.1   0:02.76 dd
 
 Here we see that cpu0 is spending 79% of its time waiting for io. In the list of programs we see the program *dd* that we ran. It's only using 5% cpu, which seems to conflict with the number 79%, but then we see it has status **D**, which means waiting for io. The reason for this is that while *dd* is only doing actual work on the cpu 5% of the time, it's still using a lot of cpu time because of all the io.
 
@@ -161,12 +161,12 @@ Most io is harddrive io, but we can see if this is the case with the tool **atop
 
     $ atop
     CPU | sys     14% | user     21% | irq       2% | idle     39% | wait    125% |
-    cpu | sys     10% | user     11% | irq       2% | idle      0% | cpu000 w **78%** |
+    cpu | sys     10% | user     11% | irq       2% | idle      0% | cpu000 w 78% |
     cpu | sys      4% | user     10% | irq       0% | idle     38% | cpu001 w 48% |
-    DSK |         **sda** | busy     **98%** | read    1371 | write   1011 | avio    4 ms |
+    DSK |         sda | busy     98% | read    1371 | write   1011 | avio    4 ms |
     
       PID  SYSCPU  USRCPU  VGROW  RGROW  RDDSK  WRDSK  ST EXC S  CPU CMD     1/4
-    30956   0.60s   0.00s     0K     0K 113.4M 114.0M  **   * **D**   6% dd
+    30956   0.60s   0.00s     0K     0K 113.4M 114.0M  **   * D   6% dd
 
 Here we again see that the program *dd* has status **D** (io wait), and cpu0 is spending 78% waiting for io. In addition, we see that the harddrive *sda* (which is the one we are reading and writing to, */dev/sda*) is busy 98% of the time. So we know that it's the harddrive that's responsible for using 78% of cpu0.
 
