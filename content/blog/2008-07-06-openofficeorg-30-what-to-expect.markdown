@@ -1,60 +1,65 @@
----
-title: 'OpenOffice.org 3.0: What to Expect?'
-author: rami_taibah
-layout: post
-permalink: /2008/07/openofficeorg-30-what-to-expect/
-categories:
-- Apps
-- Reviews
-tags: 
----
-Around 3 month ago OpenOffice.org released its 2.4 [boasting quite an impressive arsenal of advancements](http://www.oooninja.com/2008/03/new-features-openofficeorg-240.html). However if you thought 2.4 was major release, then you have seen nothing! Come September, OpenOffice.org will release it's 3.0 version! That must be quite a big jump! The upcoming 3.0 version is widely regarded as an important milestone in the project's development. Here are some of the advancements I am most excited about:  
+title: OpenOffice.org 3.0: What to Expect?
+author: Rami Taibah 
+permalink: openofficeorg-30-what-to-expect
+tags: OpenOffice, Software, FOSS
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/openoffice-beta-about.png)  
-  
-\# Writer {\#lrrn3}
+Around 3 month ago OpenOffice.org released its 2.4 [boasting quite an impressive arsenal of advancements](http://www.oooninja.com/2008/03/new-features-openofficeorg-240.html). However if you thought 2.4 was major release, then you have seen nothing! Come September, OpenOffice.org will release it's 3.0 version! That must be quite a big jump! The upcoming 3.0 version is widely regarded as an important milestone in the project's development. Here are some of the advancements I am most excited about:
+
+![OpenOffice Beta About]({filename}/images/openoffice-beta-about.png)
+
+# Writer 
+
 With version 3.0 Writer comes with a plethora of interesting advancements. You will have the option of different views, either single page, multiple pages side by side, and book view. A zoom slider has been added on the bottom right corner of the screen, which is admitingly something we saw in Office 2007 first, but definitely a welcomed feature.
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/multiple-page-ooo3.png)
+![OpenOffice Multiple Page]({filename}/images/openoffice-multiple-page.png)
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/zoom-feature-ooo3.png)  
+![OpenOffice Zoom Feature]({filename}/images/openoffice-zoom.png)
+
 Slick new notes feature that lets you add colored notes and comments on the margins instead of the old inefficient notes method, which I never used!
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/openoffice-pretty-notes.png)  
-Changing language spell check is now easily available in the menu, very handy for multi-language documents. Someone like me needs such flexibility with English/Arabic documents I alway have.  
-\# Mac OS X Support {\#mnmo}
+![OpenOffice Pretty Notes]({filename}/images/openoffice-pretty-notes.png)
+
+Changing language spell check is now easily available in the menu, very handy for multi-language documents. Someone like me needs such flexibility with English/Arabic documents I alway have.
+
+# Mac OS X Support 
+
 Remember once a friend was complaining about Arabic integration in MS Office on his Mac (or lack of it), so I suggested OpenOffice.org. Little did I know that there were other packages that we needed to install (X11 and whatnot). We had to jump through a lot of hoops to get it working. With OpenOffice.org 3.0 this is not an issue anymore, OpenOffice will natively support Mac OSX!
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/macosx-openoffice-3.png)  
-  
-\# Microsoft Office 2007 Import Filters {\#a\_v0}
+
+![OpenOffice Mac OSX Support]({filename}/images/macosx-openoffice-3.png)
+
+# Microsoft Office 2007 Import Filters
+
 I used so simply loath recieving a document ending with _x _(docx, pptx, xlsx)! What a retarded extention, it sends shivers down your spine. Well not anymore, with OpenOffice 3.0 you can directly import them and start editing away! Although, up to now the importation is not perfect, but we know who to blame over there (read thousands among thousands of ambigous documentation)
-\# New Theme in Calc {\#fk-x}
+
+# New Theme in Calc
+
 Now we get a much more polished glass theme and translucency! Here is a comparison between the old and new:
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/ooo240-linux-i86069-calc-visual.png)
+![OpenOffice Calc Visual]({filename}/images/ooo-linux-calc-visual-1.png)
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/dev300-m2-linux-i86069-calc-visual.png)
-\# Presenter Different Screens {\#x-mw}
+![OpenOffice Calc Visual]({filename}/images/ooo-linux-calc-visual-2.png)
+
+# Presenter Different Screens
+
 This always seemed logical to me, am not sure if is available in Office or not, but it's great to see in OpenOffice 3.0\. Basically in presenter you get to see a different screen than what's on the projector. You get preview of the next slide, elapsed time, notes and comments.
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/impress-presenter-screen1.jpg)
+![OpenOffice Impress Presnter 1 ]({filename}/images/impress-presenter-screen1.jpg)
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/impress-presenter-screen2.jpg)  
+![OpenOffice Impress Presnter 2 ]({filename}/images/impress-presenter-screen2.jpg) 
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/impress-presenter-screen3.jpg)  
+![OpenOffice Impress Presnter 3 ]({filename}/images/impress-presenter-screen3.jpg)
 
 # Native Tables in Impress
 
 Tables has been OpenOffices's Achilles heal when compared to Microsoft Powerpoint. One had to resort to clumsy drawing of the tables! Not anymore!
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/07/native-tables-in-impress.png)
+![OpenOffice Native Tables in Impress]({filename}/images/native-tables-in-impress.png)
 
 # Import PDF
 
 Although still not implemented in the beta version I installed, this feature is expected to be up and running in the final release come September.
 
-  
 # Conclusion
 
 OpenOffice 3.0 is a major milestone for the project, there are tons of other new features. I also noticed a great improvement in speed, which has always a bane in previous OpenOffice.org versions.
