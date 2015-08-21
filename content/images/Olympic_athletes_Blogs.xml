@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Rami subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="Royal HeHe2-ness!" title="Royal HeHe2-ness!"
+            type="rss" xmlUrl="http://hehe2.net/feed" htmlUrl="http://hehe2.net"/>
+        <outline title="Football" text="Football">
+            <outline text="CATalog" title="CATalog" type="rss"
+                xmlUrl="http://catwhitehill.blogspot.com/feeds/posts/default" htmlUrl="http://catwhitehill.blogspot.com/"/>
+            <outline text="Tarpley's Thoughts"
+                title="Tarpley's Thoughts" type="rss"
+                xmlUrl="http://lindsaytarpley5.com/?feed=rss2" htmlUrl="http://lindsaytarpley5.com"/>
+        </outline>
+        <outline title="Athletics" text="Athletics">
+            <outline text="5th Time's The Charm"
+                title="5th Time's The Charm" type="rss"
+                xmlUrl="http://5thtimesthecharm.blogspot.com/feeds/posts/default" htmlUrl="http://5thtimesthecharm.blogspot.com/"/>
+            <outline text="dan taylor throws" title="dan taylor throws"
+                type="rss"
+                xmlUrl="http://dantaylorthrows.blogspot.com/feeds/posts/default" htmlUrl="http://dantaylorthrows.blogspot.com/"/>
+            <outline text="David Oliver!  Your Mission: 12.85"
+                title="David Oliver!  Your Mission: 12.85" type="rss"
+                xmlUrl="http://davidoliverhurdles.blogspot.com/feeds/posts/default" htmlUrl="http://davidoliverhurdles.blogspot.com/"/>
+            <outline text="Get it right 3rd time around"
+                title="Get it right 3rd time around" type="rss"
+                xmlUrl="http://joicemaduaka.blogspot.com/feeds/posts/default" htmlUrl="http://joicemaduaka.blogspot.com/"/>
+            <outline text="Medal Quest" title="Medal Quest" type="rss"
+                xmlUrl="http://medalquest.blogspot.com/feeds/posts/default" htmlUrl="http://medalquest.blogspot.com/"/>
+            <outline text="Soaring to Excellence"
+                title="Soaring to Excellence" type="rss"
+                xmlUrl="http://nicole-forrester.blogspot.com/feeds/posts/default" htmlUrl="http://nicole-forrester.blogspot.com/"/>
+        </outline>
+        <outline title="Diving" text="Diving">
+            <outline text="Beijing Bound" title="Beijing Bound"
+                type="rss"
+                xmlUrl="http://blogofbeijingjourney.blogspot.com/feeds/posts/default" htmlUrl="http://blogofbeijingjourney.blogspot.com/"/>
+            <outline text="Briony Cole - Diving"
+                title="Briony Cole - Diving" type="rss"
+                xmlUrl="http://breecole.blogspot.com/feeds/posts/default" htmlUrl="http://breecole.blogspot.com/"/>
+            <outline text="Falling With Style"
+                title="Falling With Style" type="rss"
+                xmlUrl="http://cassidykrug.blogspot.com/feeds/posts/default" htmlUrl="http://cassidykrug.blogspot.com/"/>
+            <outline text="Newbery's preparation"
+                title="Newbery's preparation" type="rss"
+                xmlUrl="http://tillydivesatbeijing.blogspot.com/feeds/posts/default" htmlUrl="http://tillydivesatbeijing.blogspot.com/"/>
+            <outline text="On the Journey..." title="On the Journey..."
+                type="rss"
+                xmlUrl="http://nancilea.blogspot.com/feeds/posts/default" htmlUrl="http://nancilea.blogspot.com/"/>
+            <outline
+                text="R Newbery's reflections on preparing for Beijing"
+                title="R Newbery's reflections on preparing for Beijing"
+                type="rss"
+                xmlUrl="http://robertnewbery.blogspot.com/feeds/posts/default" htmlUrl="http://robertnewbery.blogspot.com/"/>
+        </outline>
+        <outline title="Water Polo" text="Water Polo">
+            <outline text="Dreams Can Come True....."
+                title="Dreams Can Come True....." type="rss"
+                xmlUrl="http://phudnut.blogspot.com/feeds/posts/default" htmlUrl="http://phudnut.blogspot.com/"/>
+            <outline text="The Dish" title="The Dish" type="rss"
+                xmlUrl="http://hpeatree.blogspot.com/feeds/posts/default" htmlUrl="http://hpeatree.blogspot.com/"/>
+        </outline>
+        <outline title="Taekwondo" text="Taekwondo">
+            <outline text="The Road to Beijing"
+                title="The Road to Beijing" type="rss"
+                xmlUrl="http://firstfamilyoftaekwondo.blogspot.com/feeds/posts/default" htmlUrl="http://firstfamilyoftaekwondo.blogspot.com/"/>
+        </outline>
+        <outline title="Archery" text="Archery">
+            <outline text="going4gold08" title="going4gold08" type="rss"
+                xmlUrl="http://going4gold08.blogspot.com/feeds/posts/default" htmlUrl="http://going4gold08.blogspot.com/"/>
+            <outline text="One Arrow At A Time"
+                title="One Arrow At A Time" type="rss"
+                xmlUrl="http://psalms-girl.blogspot.com/feeds/posts/default" htmlUrl="http://psalms-girl.blogspot.com/"/>
+        </outline>
+        <outline title="Canoe Flat" text="Canoe Flat">
+            <outline text="Anders Gustafsson WWW:ANDERSGUSTAFSSON.NET"
+                title="Anders Gustafsson WWW:ANDERSGUSTAFSSON.NET"
+                type="rss"
+                xmlUrl="http://andersgustafsson.blogspot.com/feeds/posts/default" htmlUrl="http://andersgustafsson.blogspot.com/"/>
+            <outline text="Ben Fouhy Beijing 2008"
+                title="Ben Fouhy Beijing 2008" type="rss"
+                xmlUrl="http://benfouhy08.wordpress.com/feed/" htmlUrl="http://benfouhy08.wordpress.com"/>
+            <outline text="Mark Oldershaw" title="Mark Oldershaw"
+                type="rss"
+                xmlUrl="http://www.canoe4canada.com/mark/atom.xml" htmlUrl="http://www.canoe4canada.com/mark/mark.php"/>
+            <outline text="Shaun Rubenstein" title="Shaun Rubenstein"
+                type="rss"
+                xmlUrl="http://shaunrubenstein2008.blogspot.com/feeds/posts/default" htmlUrl="http://shaunrubenstein2008.blogspot.com/"/>
+        </outline>
+        <outline title="Boxing" text="Boxing">
+            <outline text="&quot;Determined Not Destined&quot;"
+                title="&quot;Determined Not Destined&quot;" type="rss"
+                xmlUrl="http://determinednotdestined.blogspot.com/feeds/posts/default" htmlUrl="http://determinednotdestined.blogspot.com/"/>
+        </outline>
+        <outline title="Cycling" text="Cycling">
+            <outline
+                text="Fredrik Kessiakoff - Professional Mountainbiker"
+                title="Fredrik Kessiakoff - Professional Mountainbiker"
+                type="rss"
+                xmlUrl="http://fkessiakoff.blogspot.com/feeds/posts/default" htmlUrl="http://fkessiakoff.blogspot.com/"/>
+            <outline text="From Aalten to Beijing"
+                title="From Aalten to Beijing" type="rss"
+                xmlUrl="http://robertgesink.blogspot.com/feeds/posts/default" htmlUrl="http://robertgesink.blogspot.com/"/>
+            <outline text="Josiah Ng - Malaysia's Track Cyclist"
+                title="Josiah Ng - Malaysia's Track Cyclist" type="rss"
+                xmlUrl="http://josiahng.wordpress.com/feed/" htmlUrl="http://josiahng.wordpress.com"/>
+            <outline text="Mannie Heymans: Mr African"
+                title="Mannie Heymans: Mr African" type="rss"
+                xmlUrl="http://www.mr-african.com/?feed=rss2" htmlUrl="http://www.mr-african.com"/>
+            <outline text="Rebecca Romero" title="Rebecca Romero"
+                type="rss"
+                xmlUrl="http://rebeccaromero.blogspot.com/feeds/posts/default" htmlUrl="http://rebeccaromero.blogspot.com/"/>
+            <outline text="zerailleur.com" title="zerailleur.com"
+                type="rss" xmlUrl="http://zerailleur.com/blog/feed/rdf/" htmlUrl="http://zerailleur.com/blog"/>
+        </outline>
+        <outline title="Fencing" text="Fencing">
+            <outline text="En Garde Beijing for Seth Kelsey"
+                title="En Garde Beijing for Seth Kelsey" type="rss"
+                xmlUrl="http://bracethyself.blogspot.com/feeds/posts/default" htmlUrl="http://bracethyself.blogspot.com/"/>
+        </outline>
+        <outline title="Triathalon" text="Triathalon">
+            <outline text="bradkahlefeldt.com"
+                title="bradkahlefeldt.com" type="rss"
+                xmlUrl="http://bradkahlefeldt.com/press/?feed=rss2" htmlUrl="http://bradkahlefeldt.com/press"/>
+            <outline text="Sarah's Beijing Adventures"
+                title="Sarah's Beijing Adventures" type="rss"
+                xmlUrl="http://sarahhaskins.blogspot.com/feeds/posts/default" htmlUrl="http://sarahhaskins.blogspot.com/"/>
+            <outline text="SQWRACING" title="SQWRACING" type="rss"
+                xmlUrl="http://simonwhitfield.blogspot.com/feeds/posts/default" htmlUrl="http://simonwhitfield.blogspot.com/"/>
+        </outline>
+        <outline title="Judo" text="Judo">
+            <outline text="Aaron Cohen" title="Aaron Cohen" type="rss"
+                xmlUrl="http://ac-aaroncohen.blogspot.com/feeds/posts/default" htmlUrl="http://ac-aaroncohen.blogspot.com/"/>
+        </outline>
+        <outline title="Wrestling" text="Wrestling">
+            <outline text="Brad Vering" title="Brad Vering" type="rss"
+                xmlUrl="http://bradvering2008.blogspot.com/feeds/posts/default" htmlUrl="http://bradvering2008.blogspot.com/"/>
+        </outline>
+        <outline title="Field Hockey" text="Field Hockey">
+            <outline text="Beijing Bound and Beyond"
+                title="Beijing Bound and Beyond" type="rss"
+                xmlUrl="http://racheldawson8.blogspot.com/feeds/posts/default" htmlUrl="http://racheldawson8.blogspot.com/"/>
+            <outline text="Olympics and beyond"
+                title="Olympics and beyond" type="rss"
+                xmlUrl="http://sananimangisa.blogspot.com/feeds/posts/default" htmlUrl="http://sananimangisa.blogspot.com/"/>
+            <outline text="Road to Beijing" title="Road to Beijing"
+                type="rss"
+                xmlUrl="http://mkasold18.blogspot.com/feeds/posts/default" htmlUrl="http://mkasold18.blogspot.com/"/>
+            <outline text="Road to Honour" title="Road to Honour"
+                type="rss"
+                xmlUrl="http://timmehoyng.blogspot.com/feeds/posts/default" htmlUrl="http://timmehoyng.blogspot.com/"/>
+        </outline>
+        <outline title="Badminton" text="Badminton">
+            <outline text="My first Olympics!"
+                title="My first Olympics!" type="rss"
+                xmlUrl="http://kamillajuhl.blogspot.com/feeds/posts/default" htmlUrl="http://kamillajuhl.blogspot.com/"/>
+        </outline>
+        <outline title="Rowing" text="Rowing">
+            <outline text="Drew Ginn" title="Drew Ginn" type="rss"
+                xmlUrl="http://drewginn.blogspot.com/feeds/posts/default" htmlUrl="http://drewginn.blogspot.com/"/>
+            <outline text="Moblog" title="Moblog" type="rss"
+                xmlUrl="http://www.veraaslarsen.com/site/index.php/rss_2.0/" htmlUrl="http://www.veraaslarsen.com/site/index.php"/>
+            <outline text="Tom James" title="Tom James" type="rss"
+                xmlUrl="http://thomasjames53.blogspot.com/feeds/posts/default" htmlUrl="http://thomasjames53.blogspot.com/"/>
+        </outline>
+        <outline title="Softball" text="Softball">
+            <outline text="Stacey Nuveman Journal"
+                title="Stacey Nuveman Journal" type="rss"
+                xmlUrl="http://www.staceynuveman.com/blog/?feed=rss2" htmlUrl="http://www.staceynuveman.com/blog"/>
+        </outline>
+        <outline title="Shooting" text="Shooting">
+            <outline text="Abhinav Bindra's Road to Beijing"
+                title="Abhinav Bindra's Road to Beijing" type="rss"
+                xmlUrl="http://abhinavbindra.blogspot.com/feeds/posts/default" htmlUrl="http://abhinavbindra.blogspot.com/"/>
+            <outline text="Russell Mark's Olympic Blog"
+                title="Russell Mark's Olympic Blog" type="rss"
+                xmlUrl="http://russellmark2008.blogspot.com/feeds/posts/default" htmlUrl="http://russellmark2008.blogspot.com/"/>
+        </outline>
+        <outline title="Modern Pentathalon" text="Modern Pentathalon">
+            <outline text="Eli Bremer | Pentathlete"
+                title="Eli Bremer | Pentathlete" type="rss"
+                xmlUrl="http://elibremerpentathlon.blogspot.com/feeds/posts/default" htmlUrl="http://elibremerpentathlon.blogspot.com/"/>
+            <outline text="Margaux Isaksen" title="Margaux Isaksen"
+                type="rss"
+                xmlUrl="http://margauxisaksen.blogspot.com/feeds/posts/default" htmlUrl="http://margauxisaksen.blogspot.com/"/>
+            <outline text="My Blog" title="My Blog" type="rss"
+                xmlUrl="http://rss.mac.com/mcleanben/iWeb/Katy%20Livingston/blog/rss.xml" htmlUrl="http://web.mac.com/mcleanben/iWeb/Katy%20Livingston/blog/blog.html"/>
+            <outline text="Pentathlon in Beijing"
+                title="Pentathlon in Beijing" type="rss"
+                xmlUrl="http://pentathloninbeijing.blogspot.com/feeds/posts/default" htmlUrl="http://pentathloninbeijing.blogspot.com/"/>
+        </outline>
+        <outline title="Beijing 2008" text="Beijing 2008">
+            <outline text="&quot;Determined Not Destined&quot;"
+                title="&quot;Determined Not Destined&quot;" type="rss"
+                xmlUrl="http://determinednotdestined.blogspot.com/feeds/posts/default" htmlUrl="http://determinednotdestined.blogspot.com/"/>
+            <outline text="2008 Bejing Games" title="2008 Bejing Games"
+                type="rss"
+                xmlUrl="http://gbr49er.blogspot.com/feeds/posts/default" htmlUrl="http://gbr49er.blogspot.com/"/>
+            <outline text="5th Time's The Charm"
+                title="5th Time's The Charm" type="rss"
+                xmlUrl="http://5thtimesthecharm.blogspot.com/feeds/posts/default" htmlUrl="http://5thtimesthecharm.blogspot.com/"/>
+            <outline text="Aaron Cohen" title="Aaron Cohen" type="rss"
+                xmlUrl="http://ac-aaroncohen.blogspot.com/feeds/posts/default" htmlUrl="http://ac-aaroncohen.blogspot.com/"/>
+            <outline text="Abhinav Bindra's Road to Beijing"
+                title="Abhinav Bindra's Road to Beijing" type="rss"
+                xmlUrl="http://abhinavbindra.blogspot.com/feeds/posts/default" htmlUrl="http://abhinavbindra.blogspot.com/"/>
+            <outline text="Anders Gustafsson WWW:ANDERSGUSTAFSSON.NET"
+                title="Anders Gustafsson WWW:ANDERSGUSTAFSSON.NET"
+                type="rss"
+                xmlUrl="http://andersgustafsson.blogspot.com/feeds/posts/default" htmlUrl="http://andersgustafsson.blogspot.com/"/>
+            <outline text="Bassadone Clark - 470 Olympic Sailling Blog"
+                title="Bassadone Clark - 470 Olympic Sailling Blog"
+                type="rss"
+                xmlUrl="http://gbr470girls.blogspot.com/feeds/posts/default" htmlUrl="http://gbr470girls.blogspot.com/"/>
+            <outline text="Beijing Bound" title="Beijing Bound"
+                type="rss"
+                xmlUrl="http://blogofbeijingjourney.blogspot.com/feeds/posts/default" htmlUrl="http://blogofbeijingjourney.blogspot.com/"/>
+            <outline text="Beijing Bound and Beyond"
+                title="Beijing Bound and Beyond" type="rss"
+                xmlUrl="http://racheldawson8.blogspot.com/feeds/posts/default" htmlUrl="http://racheldawson8.blogspot.com/"/>
+            <outline text="Ben Fouhy Beijing 2008"
+                title="Ben Fouhy Beijing 2008" type="rss"
+                xmlUrl="http://benfouhy08.wordpress.com/feed/" htmlUrl="http://benfouhy08.wordpress.com"/>
+            <outline text="Brad Vering" title="Brad Vering" type="rss"
+                xmlUrl="http://bradvering2008.blogspot.com/feeds/posts/default" htmlUrl="http://bradvering2008.blogspot.com/"/>
+            <outline text="bradkahlefeldt.com"
+                title="bradkahlefeldt.com" type="rss"
+                xmlUrl="http://bradkahlefeldt.com/press/?feed=rss2" htmlUrl="http://bradkahlefeldt.com/press"/>
+            <outline text="brett heyl" title="brett heyl" type="rss"
+                xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=nIG66z1C3RGbadcZl7okhQ&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=nIG66z1C3RGbadcZl7okhQ"/>
+            <outline text="Briony Cole - Diving"
+                title="Briony Cole - Diving" type="rss"
+                xmlUrl="http://breecole.blogspot.com/feeds/posts/default" htmlUrl="http://breecole.blogspot.com/"/>
+            <outline text="Carissa Gump, 2008 Olympian"
+                title="Carissa Gump, 2008 Olympian" type="rss"
+                xmlUrl="http://carissagump.blogspot.com/feeds/posts/default" htmlUrl="http://carissagump.blogspot.com/"/>
+            <outline text="CATalog" title="CATalog" type="rss"
+                xmlUrl="http://catwhitehill.blogspot.com/feeds/posts/default" htmlUrl="http://catwhitehill.blogspot.com/"/>
+            <outline text="ChileanWonder.com" title="ChileanWonder.com"
+                type="rss"
+                xmlUrl="http://www.chileanwonder.com/sblog/rss.php" htmlUrl="http://www.chileanwonder.com/sblog/index.php"/>
+            <outline text="dan taylor throws" title="dan taylor throws"
+                type="rss"
+                xmlUrl="http://dantaylorthrows.blogspot.com/feeds/posts/default" htmlUrl="http://dantaylorthrows.blogspot.com/"/>
+            <outline text="Dave Durante's Olympic Journey"
+                title="Dave Durante's Olympic Journey" type="rss"
+                xmlUrl="http://durante08.blogspot.com/feeds/posts/default" htmlUrl="http://durante08.blogspot.com/"/>
+            <outline text="David Oliver!  Your Mission: 12.85"
+                title="David Oliver!  Your Mission: 12.85" type="rss"
+                xmlUrl="http://davidoliverhurdles.blogspot.com/feeds/posts/default" htmlUrl="http://davidoliverhurdles.blogspot.com/"/>
+            <outline text="Dreams Can Come True....."
+                title="Dreams Can Come True....." type="rss"
+                xmlUrl="http://phudnut.blogspot.com/feeds/posts/default" htmlUrl="http://phudnut.blogspot.com/"/>
+            <outline text="Drew Ginn" title="Drew Ginn" type="rss"
+                xmlUrl="http://drewginn.blogspot.com/feeds/posts/default" htmlUrl="http://drewginn.blogspot.com/"/>
+            <outline text="Eli Bremer | Pentathlete"
+                title="Eli Bremer | Pentathlete" type="rss"
+                xmlUrl="http://elibremerpentathlon.blogspot.com/feeds/posts/default" htmlUrl="http://elibremerpentathlon.blogspot.com/"/>
+            <outline text="Elise's Olympic Journey"
+                title="Elise's Olympic Journey" type="rss"
+                xmlUrl="http://elisemarcotte.blogspot.com/feeds/posts/default" htmlUrl="http://elisemarcotte.blogspot.com/"/>
+            <outline text="En Garde Beijing for Seth Kelsey"
+                title="En Garde Beijing for Seth Kelsey" type="rss"
+                xmlUrl="http://bracethyself.blogspot.com/feeds/posts/default" htmlUrl="http://bracethyself.blogspot.com/"/>
+            <outline text="Falling With Style"
+                title="Falling With Style" type="rss"
+                xmlUrl="http://cassidykrug.blogspot.com/feeds/posts/default" htmlUrl="http://cassidykrug.blogspot.com/"/>
+            <outline
+                text="Fredrik Kessiakoff - Professional Mountainbiker"
+                title="Fredrik Kessiakoff - Professional Mountainbiker"
+                type="rss"
+                xmlUrl="http://fkessiakoff.blogspot.com/feeds/posts/default" htmlUrl="http://fkessiakoff.blogspot.com/"/>
+            <outline text="From Aalten to Beijing"
+                title="From Aalten to Beijing" type="rss"
+                xmlUrl="http://robertgesink.blogspot.com/feeds/posts/default" htmlUrl="http://robertgesink.blogspot.com/"/>
+            <outline text="Get it right 3rd time around"
+                title="Get it right 3rd time around" type="rss"
+                xmlUrl="http://joicemaduaka.blogspot.com/feeds/posts/default" htmlUrl="http://joicemaduaka.blogspot.com/"/>
+            <outline text="going4gold08" title="going4gold08" type="rss"
+                xmlUrl="http://going4gold08.blogspot.com/feeds/posts/default" htmlUrl="http://going4gold08.blogspot.com/"/>
+            <outline text="Iain Murray - Star Sailor"
+                title="Iain Murray - Star Sailor" type="rss"
+                xmlUrl="http://iainmurray-starsailor.blogspot.com/feeds/posts/default" htmlUrl="http://iainmurray-starsailor.blogspot.com/"/>
+            <outline text="Josiah Ng - Malaysia's Track Cyclist"
+                title="Josiah Ng - Malaysia's Track Cyclist" type="rss"
+                xmlUrl="http://josiahng.wordpress.com/feed/" htmlUrl="http://josiahng.wordpress.com"/>
+            <outline text="just call me alex..."
+                title="just call me alex..." type="rss"
+                xmlUrl="http://alexandra-orlando.blogspot.com/feeds/posts/default" htmlUrl="http://alexandra-orlando.blogspot.com/"/>
+            <outline text="Mannie Heymans: Mr African"
+                title="Mannie Heymans: Mr African" type="rss"
+                xmlUrl="http://www.mr-african.com/?feed=rss2" htmlUrl="http://www.mr-african.com"/>
+            <outline text="Margaux Isaksen" title="Margaux Isaksen"
+                type="rss"
+                xmlUrl="http://margauxisaksen.blogspot.com/feeds/posts/default" htmlUrl="http://margauxisaksen.blogspot.com/"/>
+            <outline text="Mark Oldershaw" title="Mark Oldershaw"
+                type="rss"
+                xmlUrl="http://www.canoe4canada.com/mark/atom.xml" htmlUrl="http://www.canoe4canada.com/mark/mark.php"/>
+            <outline text="Medal Quest" title="Medal Quest" type="rss"
+                xmlUrl="http://medalquest.blogspot.com/feeds/posts/default" htmlUrl="http://medalquest.blogspot.com/"/>
+            <outline text="Moblog" title="Moblog" type="rss"
+                xmlUrl="http://www.veraaslarsen.com/site/index.php/rss_2.0/" htmlUrl="http://www.veraaslarsen.com/site/index.php"/>
+            <outline text="My Blog" title="My Blog" type="rss"
+                xmlUrl="http://rss.mac.com/mcleanben/iWeb/Katy%20Livingston/blog/rss.xml" htmlUrl="http://web.mac.com/mcleanben/iWeb/Katy%20Livingston/blog/blog.html"/>
+            <outline text="My first Olympics!"
+                title="My first Olympics!" type="rss"
+                xmlUrl="http://kamillajuhl.blogspot.com/feeds/posts/default" htmlUrl="http://kamillajuhl.blogspot.com/"/>
+            <outline text="Newbery's preparation"
+                title="Newbery's preparation" type="rss"
+                xmlUrl="http://tillydivesatbeijing.blogspot.com/feeds/posts/default" htmlUrl="http://tillydivesatbeijing.blogspot.com/"/>
+            <outline text="Olympics and beyond"
+                title="Olympics and beyond" type="rss"
+                xmlUrl="http://sananimangisa.blogspot.com/feeds/posts/default" htmlUrl="http://sananimangisa.blogspot.com/"/>
+            <outline text="On the Journey..." title="On the Journey..."
+                type="rss"
+                xmlUrl="http://nancilea.blogspot.com/feeds/posts/default" htmlUrl="http://nancilea.blogspot.com/"/>
+            <outline text="One Arrow At A Time"
+                title="One Arrow At A Time" type="rss"
+                xmlUrl="http://psalms-girl.blogspot.com/feeds/posts/default" htmlUrl="http://psalms-girl.blogspot.com/"/>
+            <outline text="Paul Goodison's Blog"
+                title="Paul Goodison's Blog" type="rss"
+                xmlUrl="http://paulgoodison.blogspot.com/feeds/posts/default" htmlUrl="http://paulgoodison.blogspot.com/"/>
+            <outline text="Pentathlon in Beijing"
+                title="Pentathlon in Beijing" type="rss"
+                xmlUrl="http://pentathloninbeijing.blogspot.com/feeds/posts/default" htmlUrl="http://pentathloninbeijing.blogspot.com/"/>
+            <outline
+                text="R Newbery's reflections on preparing for Beijing"
+                title="R Newbery's reflections on preparing for Beijing"
+                type="rss"
+                xmlUrl="http://robertnewbery.blogspot.com/feeds/posts/default" htmlUrl="http://robertnewbery.blogspot.com/"/>
+            <outline text="Rebecca Romero" title="Rebecca Romero"
+                type="rss"
+                xmlUrl="http://rebeccaromero.blogspot.com/feeds/posts/default" htmlUrl="http://rebeccaromero.blogspot.com/"/>
+            <outline text="Road to Beijing" title="Road to Beijing"
+                type="rss"
+                xmlUrl="http://mkasold18.blogspot.com/feeds/posts/default" htmlUrl="http://mkasold18.blogspot.com/"/>
+            <outline text="Road to Honour" title="Road to Honour"
+                type="rss"
+                xmlUrl="http://timmehoyng.blogspot.com/feeds/posts/default" htmlUrl="http://timmehoyng.blogspot.com/"/>
+            <outline text="Russell Mark's Olympic Blog"
+                title="Russell Mark's Olympic Blog" type="rss"
+                xmlUrl="http://russellmark2008.blogspot.com/feeds/posts/default" htmlUrl="http://russellmark2008.blogspot.com/"/>
+            <outline text="Sarah's Beijing Adventures"
+                title="Sarah's Beijing Adventures" type="rss"
+                xmlUrl="http://sarahhaskins.blogspot.com/feeds/posts/default" htmlUrl="http://sarahhaskins.blogspot.com/"/>
+            <outline text="Shaun Rubenstein" title="Shaun Rubenstein"
+                type="rss"
+                xmlUrl="http://shaunrubenstein2008.blogspot.com/feeds/posts/default" htmlUrl="http://shaunrubenstein2008.blogspot.com/"/>
+            <outline text="Soaring to Excellence"
+                title="Soaring to Excellence" type="rss"
+                xmlUrl="http://nicole-forrester.blogspot.com/feeds/posts/default" htmlUrl="http://nicole-forrester.blogspot.com/"/>
+            <outline text="SQWRACING" title="SQWRACING" type="rss"
+                xmlUrl="http://simonwhitfield.blogspot.com/feeds/posts/default" htmlUrl="http://simonwhitfield.blogspot.com/"/>
+            <outline text="Stacey Nuveman Journal"
+                title="Stacey Nuveman Journal" type="rss"
+                xmlUrl="http://www.staceynuveman.com/blog/?feed=rss2" htmlUrl="http://www.staceynuveman.com/blog"/>
+            <outline text="Tarpley's Thoughts"
+                title="Tarpley's Thoughts" type="rss"
+                xmlUrl="http://lindsaytarpley5.com/?feed=rss2" htmlUrl="http://lindsaytarpley5.com"/>
+            <outline text="The Dish" title="The Dish" type="rss"
+                xmlUrl="http://hpeatree.blogspot.com/feeds/posts/default" htmlUrl="http://hpeatree.blogspot.com/"/>
+            <outline text="The Road to Beijing"
+                title="The Road to Beijing" type="rss"
+                xmlUrl="http://firstfamilyoftaekwondo.blogspot.com/feeds/posts/default" htmlUrl="http://firstfamilyoftaekwondo.blogspot.com/"/>
+            <outline text="Tom James" title="Tom James" type="rss"
+                xmlUrl="http://thomasjames53.blogspot.com/feeds/posts/default" htmlUrl="http://thomasjames53.blogspot.com/"/>
+            <outline
+                text="Worth the Weight - Melanie Roach Olympic Blog"
+                title="Worth the Weight - Melanie Roach Olympic Blog"
+                type="rss"
+                xmlUrl="http://melanieroach.blogspot.com/feeds/posts/default" htmlUrl="http://melanieroach.blogspot.com/"/>
+            <outline text="zerailleur.com" title="zerailleur.com"
+                type="rss" xmlUrl="http://zerailleur.com/blog/feed/rdf/" htmlUrl="http://zerailleur.com/blog"/>
+        </outline>
+        <outline title="Synchorized Swimming" text="Synchorized Swimming">
+            <outline text="Elise's Olympic Journey"
+                title="Elise's Olympic Journey" type="rss"
+                xmlUrl="http://elisemarcotte.blogspot.com/feeds/posts/default" htmlUrl="http://elisemarcotte.blogspot.com/"/>
+        </outline>
+        <outline title="Rythmic Gymnastics" text="Rythmic Gymnastics">
+            <outline text="just call me alex..."
+                title="just call me alex..." type="rss"
+                xmlUrl="http://alexandra-orlando.blogspot.com/feeds/posts/default" htmlUrl="http://alexandra-orlando.blogspot.com/"/>
+        </outline>
+        <outline title="Canoe Slalom" text="Canoe Slalom">
+            <outline text="brett heyl" title="brett heyl" type="rss"
+                xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=nIG66z1C3RGbadcZl7okhQ&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=nIG66z1C3RGbadcZl7okhQ"/>
+            <outline text="ChileanWonder.com" title="ChileanWonder.com"
+                type="rss"
+                xmlUrl="http://www.chileanwonder.com/sblog/rss.php" htmlUrl="http://www.chileanwonder.com/sblog/index.php"/>
+        </outline>
+        <outline title="Sailing" text="Sailing">
+            <outline text="2008 Bejing Games" title="2008 Bejing Games"
+                type="rss"
+                xmlUrl="http://gbr49er.blogspot.com/feeds/posts/default" htmlUrl="http://gbr49er.blogspot.com/"/>
+            <outline text="Bassadone Clark - 470 Olympic Sailling Blog"
+                title="Bassadone Clark - 470 Olympic Sailling Blog"
+                type="rss"
+                xmlUrl="http://gbr470girls.blogspot.com/feeds/posts/default" htmlUrl="http://gbr470girls.blogspot.com/"/>
+            <outline text="Iain Murray - Star Sailor"
+                title="Iain Murray - Star Sailor" type="rss"
+                xmlUrl="http://iainmurray-starsailor.blogspot.com/feeds/posts/default" htmlUrl="http://iainmurray-starsailor.blogspot.com/"/>
+            <outline text="Paul Goodison's Blog"
+                title="Paul Goodison's Blog" type="rss"
+                xmlUrl="http://paulgoodison.blogspot.com/feeds/posts/default" htmlUrl="http://paulgoodison.blogspot.com/"/>
+        </outline>
+        <outline title="Gymnastics" text="Gymnastics">
+            <outline text="Dave Durante's Olympic Journey"
+                title="Dave Durante's Olympic Journey" type="rss"
+                xmlUrl="http://durante08.blogspot.com/feeds/posts/default" htmlUrl="http://durante08.blogspot.com/"/>
+        </outline>
+        <outline title="Weight Lifting" text="Weight Lifting">
+            <outline text="Carissa Gump, 2008 Olympian"
+                title="Carissa Gump, 2008 Olympian" type="rss"
+                xmlUrl="http://carissagump.blogspot.com/feeds/posts/default" htmlUrl="http://carissagump.blogspot.com/"/>
+            <outline
+                text="Worth the Weight - Melanie Roach Olympic Blog"
+                title="Worth the Weight - Melanie Roach Olympic Blog"
+                type="rss"
+                xmlUrl="http://melanieroach.blogspot.com/feeds/posts/default" htmlUrl="http://melanieroach.blogspot.com/"/>
+        </outline>
+    </body>
+</opml>

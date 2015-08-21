@@ -1,9 +1,9 @@
 title: Sourceforge on Your iPhone!
 author:  Rami Taibah
 permalink: sourceforge-on-your-iphone
-tags: 
+tags: Sourceforge, iPhone
 
-![]({filename}/images/iphone.jpg)
+![original iPhone]({filename}/images/iphone.jpg)
 
 While I am not really big iPhone fan, I must admit it's a sexy piece of hardware, that captured the hearts of millions in a heartbeat. But the fact that Apple decided to lock it down, is a deal breaker for me. I have had the misfortune of buying a 32 GB iPod touch, and managing it from my Ubuntu box is simply a **nightmare**. While tools like _ipod-convenience_, can do the job, they are buggy and unstable to say the least and remain indivisual efforts of Linux hackers and reverse engineers.
 

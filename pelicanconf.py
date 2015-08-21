@@ -8,6 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
+
 TIMEZONE = 'Asia/Riyadh'
 
 DEFAULT_LANG = u'en'

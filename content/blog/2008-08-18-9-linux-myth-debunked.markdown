@@ -1,20 +1,18 @@
----
 title: 9 Linux Myths Debunked
-author: rami_taibah
-layout: post
+author: Rami Taibah 
 permalink: /2008/08/9-linux-myth-debunked/
-categories:
-- Advocacy
-tags: 
----
+tags: Linux, FUD, Microsoft, Linuxologist
 
-![Linux Faces FUD](/blog/wp-content/uploads/2008/08/next_pers3_dec140-277x300.jpg)
-\*\*If you enjoyed this article, then I would recommend to also read \[The 7 Habits of Highly Effective Linux Users\]\[1\] and \[Etymology of A Distro\]\[2\]. Enjoy!\*\*
-When it comes to Linux there are 3 4 kinds of people, those who never heard of it, those who love it, those who are afraid of it, and those who hate it and spread falsities about it. I don't really care about the first, they probably aren't really technologically literate anyways, as long as they have E-mail they are content. While the third  group is the result of the actions of the fourth. Let's hit two birds with one stone shall we?
+![Linux Faces FUD]({filename}/images/linux-fud.jpg)
+** If you enjoyed this article, then I would recommend to also read [The 7 Habits of Highly Effective Linux Users]({filename}/blog/2008-04-16-the-7-habits-of-highly-effective-linux-users.markdown) and [Etymology of A Distro]({filename}/blog/2008-04-06-etymology-of-a-distro.markdown). Enjoy!**
+
+  2008-04-06-etymology-of-a-distro.markdown
+When it comes to Linux there are 4 kinds of people, those who never heard of it, those who love it, those who are afraid of it, and those who hate it and spread falsities about it. I don't really care about the first, they probably aren't really technologically literate anyways, as long as they have E-mail they are content. While the third  group is the result of the actions of the fourth. Let's hit two birds with one stone shall we?
+
 
 ## 1-Linux is More Secure Because it Has A Smaller User Base
 
-It is widely argued that _Linux_ is more secure than Windows just because Windows is more popular, so hackers and virus coders tend to focus on the more popular platform. Actually, this is just one side of the story There are so many other things running for _Linux_ security-wise that totally dispels this myth.
+It is widely argued that Linux is more secure than Windows just because Windows is more popular, so hackers and virus coders tend to focus on the more popular platform. Actually, this is just one side of the story There are so many other things running for _Linux_ security-wise that totally dispels this myth.
 
 First of all, let's face it, YOU are the weakest link in any OS. The user is the one that wreaks havoc to any OS, with ignorance or miscalculated decisions. _Linux_ users are generally more savvy than the Windows or Mac users out there. We don't just click on files promising us the latest Hollywood diva nude pictures. Besides, it's normal practice that _Linux_ users don't run their systems as root, which is not the case with Windows, this drastically brings down the vulnerability of any system. The question now, will this be the case if _Linux_ gains popularity and more adoption? I don't really know, but if _Linux_ commanded more than 90% of the market, I believe this argument would be totally false.
 
@@ -34,7 +32,7 @@ Which is easier again?
 
 Back in 2005 when I first started my Linux adventure, I got my hand on 5 SUSE cd's from a  Linux Format magazine. Back then I was on XP, I initially wanted to back up my files before I take the plunge just in case. When I looked at the huge amount of files, I got lazy and somewhat careless, and decided just to install SUSE without backing up. 2 hours later I had a magical dual boot system (the whole concept of dual boot was alien to me back then) and all my files were intact!
 
-Why am I telling you this story? Because I think one part of the intimidation of installing Linux is the belief that it might destroy files and end up on an OS that might thats not appealing (hey we are humble to realize it's not for everyone ![;)](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_wink.gif) ) All I am saying it's piss easy! If I was able to do it with no prior knowledge of Linux then you can too! It just needs some common sense. Trust me!
+Why am I telling you this story? Because I think one part of the intimidation of installing Linux is the belief that it might destroy files and end up on an OS that might thats not appealing (hey we are humble to realize it's not for everyone !;) ) All I am saying it's piss easy! If I was able to do it with no prior knowledge of Linux then you can too! It just needs some common sense. Trust me!
 
 And if you don't trust me (I understand you don't really know me do you?) Why don't you dabble with Linux using virtualization?
 
@@ -48,11 +46,16 @@ Well Linux provides you both and everything in between! And in a million and one
 
 You can install Compiz, which gives you rotating cubes for different desktops, wobbly windows, animated window behavior just to name a few. You can install [Enlightenment](http://www.enlightenment.org/), which provides you a sleek looking desktop that you have never seen before. KDE4 is a scene to behold! Anyways I think a picture is worth a thousand words,  here judge by yourself:
 
-[![Linux and the Compiz Cube](/blog/wp-content/uploads/2008/08/xgl-compiz-150x150.jpg)](http://192.168.1.33/blog2/wp-content/uploads/2008/08/xgl-compiz.jpg)[](http://192.168.1.33/blog2/wp-content/uploads/2008/08/xgl-compiz.jpg)[](http://192.168.1.33/blog2/wp-content/uploads/2008/08/compiz-6.jpeg)[![It's Snowing in Linux Land](/blog/wp-content/uploads/2008/08/ubuntu_gusty_compiz_xglsnow_thumb-150x150.png) ](http://192.168.1.33/blog2/wp-content/uploads/2008/08/ubuntu_gusty_compiz_xglsnow_thumb.png)[![enlightenment-e17](/blog/wp-content/uploads/2008/08/enlightenment-e17-150x150.jpg) ](http://192.168.1.33/blog2/wp-content/uploads/2008/08/enlightenment-e17.jpg)[](http://192.168.1.33/blog2/wp-content/uploads/2008/08/compiz-6.jpeg)
+![Linux and the Compiz Cube]({filename}/images/xgl-compiz.jpg)
 
-[](http://192.168.1.33/blog2/wp-content/uploads/2008/08/compiz-6.jpeg)[](http://192.168.1.33/blog2/wp-content/uploads/2008/08/xgl-compiz.jpg)[](http://192.168.1.33/blog2/wp-content/uploads/2008/08/ubuntu_gusty_compiz_xglsnow_thumb.png)
+![Linux and Compiz Cube]({filename}/images/compiz-6.jpeg)
 
-In fact you can actually make Linux like whatever you want, you can make it even look like Apple or Windows! The sky is the limit ![;)](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_wink.gif)
+![It's Snowing in Linux Land]({filename}/images/ubuntu-gusty-compiz-xgl-snow.png)
+
+![enlightenment-e17]({filename}/images/enlightenment-e17.jpg) 
+
+
+In fact you can actually make Linux like whatever you want, you can make it even look like Apple or Windows! The sky is the limit !;)
 
 ## 5-There Are No Games on Linux
 
@@ -62,7 +65,7 @@ Seriously, just yesterday I walked into my brother's room, and  found a collecti
 
 Today, there are literally 100's of games that work under Linux, true they haven't been ported, but [Wine](http://en.wikipedia.org/wiki/Wine_%28software%29) (a program that allows Windows programs to run under Linux) has taken care of that. Just looking at the top [10 list of apps working under Wine](http://appdb.winehq.org/), one finds quite a lot of them are games. And a lot of them are VERY popular! Wine could also help in a lot of [other games](http://appdb.winehq.org/appbrowse.php?iCatId=2) too! You can also purchase [Cedega](http://www.transgaming.com/products/cedega/) which depends on Wine but makes the experience much more user-friendly. There is a [lot of help out there](http://frankscorner.org/), you just need to open your eyes a bit! And if all fails, virtualization could be a last resort!
 
-[![Word of Worldcraft Running on Linux using Wine](/blog/wp-content/uploads/2008/08/wow-on-linux-using-wine-300x240.jpg)](http://192.168.1.33/blog2/wp-content/uploads/2008/08/wow-on-linux-using-wine.jpeg)
+![World of Worldcraft Running on Linux using Wine]({filename}/images/wow-on-linux-using-wine.jpeg)
 
 One could still argue that there are no Linux games, as all that this means that there are no native Linux games. Right? Not really, there are loads of native Open Source Linux games, I can't really vouch for them, but from the screen shots they do seem cool. Here have a [glimpse](http://rangit.com/software/top-8-linux-games-of-2007/).
 
@@ -80,8 +83,9 @@ However in reality, a lot of Linux users are mavericks, they get their support f
 
 ## 8-Linux Doesn't Have Good Hardware Support
 
-Sometime ago, I blogged about how [I suffered to get an HP printer to work on Windows.](/blog/thedarkside/microsoft/debunking-the-microsoft-windows-user-friendliness-myth/) Long story short, after around 2 hours of trying to get an HP printer to work on XP, I gave up and plugged into an Ubuntu Linux Eee PC, it got recognized in 30 seconds! There are thousands of stories similar to this, just a quick Google would confirm that. [Here is an example](http://changelog.complete.org/posts/644-Linux-Hardware-Support-Better-Than-Windows.html).
+Sometime ago, I blogged about how [I suffered to get an HP printer to work on Windows.]({filename}/blog/2008-07-06-debunking-the-microsoft-windows-user-friendliness-myth.markdown) Long story short, after around 2 hours of trying to get an HP printer to work on XP, I gave up and plugged into an Ubuntu Linux Eee PC, it got recognized in 30 seconds! There are thousands of stories similar to this, just a quick Google would confirm that. [Here is an example](http://changelog.complete.org/posts/644-Linux-Hardware-Support-Better-Than-Windows.html).
 
+  2008-07-06-debunking-the-microsoft-windows-user-friendliness-myth.markdown
 What people fail to realize that in the case of their Windows preinstalled PC's, they "just works" because the vendors have already done all the work for them. It would be a totally different ball game if these PC's had no OS on them. Windows wouldn't come out all that superior, I would even wager that Linux would probably do a better job.
 
 Actually I think that we are at a point where I can say that Linux would work more than 90% of hardware out there! Could Windows or Apple claim that? I don't know, I stopped being a Windows power user for quite sometime. But what I remember is that a webcam I purchased in 2004 wasn't "digitally verified" (or something like that) by XP, despite the fact that XP has been around for years!
@@ -94,6 +98,4 @@ As for the rest of software, rest assured that there is replacement for everythi
 
 ## Bonus: Linux is For Geeks!
 
-Ahh, nevermind not really gonna try to refute this one, though I tried to convince people that [Linux is sexy](/blog/linuxhumor/linux-and-sex-debunking-the-myth/), didn't really do a good job at it! But hey geek is good ![;)](http://192.168.1.2/blog2/wp-includes/images/smilies/icon_wink.gif)
-\[1\]: /blog/linux-general/the-7-habits-of-highly-effective-linux-users/
-\[2\]: /blog/linux-general/etymology-of-a-distro/
+Ahh, nevermind not really gonna try to refute this one, though I tried to convince people that [Linux is sexy]({filename}/images/2008-05-16-linux-and-sex-debunking-the-myth.markdown), didn't really do a good job at it! But hey geek is good ;)
