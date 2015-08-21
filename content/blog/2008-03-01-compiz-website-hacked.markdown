@@ -4,7 +4,7 @@ permalink: compiz-website-hacked
 tags: Compiz
 
 
-While going about my business trying to find more [slick Linux desktops]({filename}/blog/2008-02-27-10-slick-linux-desktops-and-how-to-make-them/), I decided to check out the [Compiz](http://compiz.org) website. So normally I navigated to the [screenshot](http://compiz.org/Home/Screenshots) section. I was left unsatisfied with a handful of low-res pictures. But I noticed a [discussion link](http://compiz.org/Talk:Home/Screenshots); so I thought "alright let's check that out maybe other people posted their stuff"
+While going about my business trying to find more [slick Linux desktops]({filename}/blog/2008-02-27-10-slick-linux-desktops-and-how-to-make-them.markdown), I decided to check out the [Compiz](http://compiz.org) website. So normally I navigated to the [screenshot](http://compiz.org/Home/Screenshots) section. I was left unsatisfied with a handful of low-res pictures. But I noticed a [discussion link](http://compiz.org/Talk:Home/Screenshots); so I thought "alright let's check that out maybe other people posted their stuff"
 
 To my surprise the "discussion" was nothing more than spam links! Everything from "commercial realtors in Tallahassee" to "South Park hentai"!!
 
