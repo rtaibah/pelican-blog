@@ -1,4 +1,4 @@
-title: '60 Personal Blogs of Athletes Competing in Beijing: OPML File Directly To Your RSS Reader!'
+title: 60 Personal Blogs of Athletes Competing in Beijing: OPML File Directly To Your RSS Reader!
 author: Rami Taibah 
 permalink: /2008/08/60-beijing-olympic-athletes-blogs-opml-file-directly-to-your-reader/
 tags: Sports, Olympics 

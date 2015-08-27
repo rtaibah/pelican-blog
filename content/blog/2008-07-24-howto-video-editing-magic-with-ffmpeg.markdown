@@ -1,4 +1,4 @@
-title: 'HOWTO: Video Editing Magic with ffmpeg'
+title: HOWTO: Video Editing Magic with ffmpeg
 author: Rami Taibah 
 layout: post
 permalink: howto-video-editing-magic-with-ffmpeg/

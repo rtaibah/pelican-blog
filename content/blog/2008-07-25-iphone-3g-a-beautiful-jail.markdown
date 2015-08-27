@@ -1,4 +1,4 @@
-title: 'Apple iPhone 3G: A Beautiful Jail'
+title: Apple iPhone 3G: A Beautiful Jail
 author: Rami Taibah 
 excerpt: "I have already ranted about my displeasure with the iPhone because it's locked down like a brick and cannot be really used effectively on a Linux box. But if you thought that was bad then you have seen nothing! The Free Software Foundation published an alarming article titled 5 Reasons to Avoid iPhone 3G."
 permalink: iphone-3g-a-beautiful-jail

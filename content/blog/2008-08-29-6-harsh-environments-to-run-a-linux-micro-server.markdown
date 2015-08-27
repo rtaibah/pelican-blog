@@ -1,7 +1,7 @@
 title: 6 Harsh Environments to Run A Linux Micro-Server
 author: Rami Taibah 
 permalink: /2008/08/6-harsh-environments-to-run-a-linux-micro-server/
-tags: 
+tags: Plathome, Hardware, Linux, Linuxologist
 
 Recently I blogged about [Plat'Home's "Will Linux Work"]({filename}/blog/2008-08-01-plathomes-will-linux-work-contest.markdown)? Challenge, where Plat'home challenged people to come up with the most bizarre and harsh conditions for their palm-size servers to work. The winner will get 5 servers to test his/her idea! Almost one month has passed, so what [extreme ideas did the Internet muste](http://www.plathomeus.blogspot.com/).
 

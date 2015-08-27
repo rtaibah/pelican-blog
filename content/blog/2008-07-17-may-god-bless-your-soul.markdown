@@ -1,4 +1,4 @@
-title: 'May God Bless Your Soul...'
+title: May God Bless Your Soul...
 author: Rami Taibah 
 permalink: may-god-bless-your-soul
 tags: personal 
