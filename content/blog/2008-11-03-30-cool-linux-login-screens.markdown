@@ -1,182 +1,197 @@
----
 title: 30 Cool Linux Login Screens
-author: rami_taibah
-layout: post
+author:  Rami Taibah
 permalink: /2008/11/30-cool-linux-login-screens/
-categories:
-- Eye Candy
-tags: 
----
-One of the most powerful attributes that are running for Linux as opposed to other OS'es is it flexibility and customizibility. Its one of the first things mentioned when a Linux geek is asked about Linux. And we love to show it. I trekked [Gnome Look](http://www.gnome-look.org) and[KDE Look](http://www.kde-look.org) and chose for you these 30 great login screen themes. The first 15 are GNOME Specific, while 16-30 are for KDE.
-Personally I settled with \#14 (sunset). Which one did you settle with? What others do you recommend? Oh and ENJOY!\*\*
-\*Click on the image to take you straight to the page.\*
-\#\#\# 1-Somatic
+tags: Eye Candy, Linux, Linguxologist, Gnome, KDE, Login Screens
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/somatic.jpg)](http://gnome-look.org/content/show.php/Somatic+-+GDM?content=86643)
+One of the most powerful attributes that are running for Linux as opposed to other OS'es is it flexibility and customizibility. Its one of the first things mentioned when a Linux geek is asked about Linux. And we love to show it. I trekked [Gnome Look](http://www.gnome-look.org) and [KDE Look](http://www.kde-look.org) and chose for you these 30 great login screen themes. The first 15 are GNOME Specific, while 16-30 are for KDE.
 
-_By: pokemonjojo2_
-\#\#\# 2-Clear Crisp Morning
+Personally I settled with #14 (sunset). Which one did you settle with? What others do you recommend? Oh and ENJOY!
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/clear-crisp-morning.png)](http://gnome-look.org/content/show.php/Crisp+Clear+Morning?content=48994)
+*Click on the image to take you straight to the page.*
 
-_By: penseleit_
-\#\#\# 3-Tux vs. MS
+### 1-Somatic
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/tux-vs-ms.jpg)](http://gnome-look.org/content/show.php/Tux+versus+Ms+butterfly?content=15783)
+[![Somatic Linux Login Screen]({filename}/images/somatic.jpg)](http://gnome-look.org/content/show.php/Somatic+-+GDM?content=86643)
 
-_By:  alcapcom_
-\#\#\# 4-Doe
+###### By: pokemonjojo2
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/doe.jpg)](http://gnome-look.org/content/show.php/Doe+GDM?content=52791)
+### 2-Clear Crisp Morning
 
-_By: xyzwqt_
-\#\#\# 5-Blue Swirl
+[![Clear Crisp Morning Linux Login Screen]({filename}/images/clear-crisp-morning.png)](http://gnome-look.org/content/show.php/Crisp+Clear+Morning?content=48994)
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/dark-knight.jpg)](http://gnome-look.org/content/show.php/Blue+Swirl?content=30846)
+###### By: penseleit
 
-_By: darkknight9_
-\#\#\# 6-Magic Book
+### 3-Tux vs. MS
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/magic-book.jpg)](http://gnome-look.org/content/show.php/Magic+Book+GDM+Theme?content=77221)
+[![Linux Login Screen Tux vs Microsoft]({filename}/images/tux-vs-ms.jpg)](http://gnome-look.org/content/show.php/Tux+versus+Ms+butterfly?content=15783)
 
-_By: gHiRo_
-\#\#\# 7-Pixel Girl
+###### By:  alcapcom
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/pixel-girl.jpg)](http://gnome-look.org/content/show.php/Pixel+Girl?content=18179)
+### 4-Doe
 
-_By: fabiand_
-\#\#\# 8-Super GNOME Bros
+[![Doe Linux Login Screen]({filename}/images/doe.jpg)](http://gnome-look.org/content/show.php/Doe+GDM?content=52791)
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/super-gnome-bros.jpg)](http://gnome-look.org/content/show.php/Super+Gnome+Bross?content=55092)
+###### By: xyzwqt
 
-_By: linuxville_
-\#\#\# 9-Sunshine
+### 5-Blue Swirl
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/sunshine-alpha.jpg)](http://gnome-look.org/content/show.php/Sunshine?content=43012)
+[![Linux Login Screen Dark Knight]({filename}/images/dark-knight.jpg)](http://gnome-look.org/content/show.php/Blue+Swirl?content=30846)
 
-_By: paullinux_
-\#\#\# 10-Relaxing Water
+###### By: darkknight9
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/relaxing-water.jpg)](http://gnome-look.org/content/show.php/Relaxing+Water?content=48213)
+### 6-Magic Book
 
-_By: cooper14_
-\#\#\# 11-Still Alive Sunshine
+[![Linux Login Screen Magic Book]({filename}/images/magic-book.jpg)](http://gnome-look.org/content/show.php/Magic+Book+GDM+Theme?content=77221)
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/still-alive-sunshine.png)](http://gnome-look.org/content/show.php/Still+alive+sunshine+GDM+Theme?content=52687)
+###### By: gHiRo
 
-_By: savagehp_
-\#\#\# 12-Soft Flower
+### 7-Pixel Girl
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/soft-flower.jpg)](http://gnome-look.org/content/show.php/Soft+Flower+Gnome+GDM?content=35592)
+[![Linux Login Screen Pixel Girl]({filename}/images/pixel-girl.jpg)](http://gnome-look.org/content/show.php/Pixel+Girl?content=18179)
 
-_By: solarfields_
-\#\#\# 13-Avio
+###### By: fabiand
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/avio.jpg)](http://gnome-look.org/content/show.php/Avio-GDM?content=37395)
+### 8-Super GNOME Bros
 
-_By: tobain_
-\#\#\# 14-Sunset
+[![Linux Login Screen Super Gnome Bros]({filename}/images/super-gnome-bros.jpg)](http://gnome-look.org/content/show.php/Super+Gnome+Bross?content=55092)
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/sunset.jpg)](http://gnome-look.org/content/show.php/Sunset?content=85709)
+###### By: linuxville
 
-_By: Dav87_
-\#\#\# 15-Arc Colors
+### 9-Sunshine
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/arc-colors.png)](http://gnome-look.org/content/show.php/Arc-Colors+GDM-Walls?content=88305)
+[![Linux Login Screen Sunshine]({filename}/images/sunshine-alpha.jpg)](http://gnome-look.org/content/show.php/Sunshine?content=43012)
 
-_By: perfectska04_
-\#\#\# 16-Toxic
+###### By: paullinux
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/toxic.jpg)](http://kde-look.org/content/show.php/ToxicTheme+-+Widescreen?content=50771)
+### 10-Relaxing Water
 
-_By: guerrerocarl_
+[![Linux Login Screen Relaxing Water]({filename}/images/relaxing-water.jpg)](http://gnome-look.org/content/show.php/Relaxing+Water?content=48213)
+
+###### By: cooper14
+
+### 11-Still Alive Sunshine
+
+[![Linux Login Screen Alive Sunshine]({filename}/images/still-alive-sunshine.png)](http://gnome-look.org/content/show.php/Still+alive+sunshine+GDM+Theme?content=52687)
+
+###### By: savagehp
+
+### 12-Soft Flower
+
+[![Linux Login Screen Soft Flower]({filename}/images/soft-flower.jpg)](http://gnome-look.org/content/show.php/Soft+Flower+Gnome+GDM?content=35592)
+
+###### By: solarfields
+
+### 13-Avio
+
+[![Linux Login Screen Avio]({filename}/images/avio.jpg)](http://gnome-look.org/content/show.php/Avio-GDM?content=37395)
+
+###### By: tobain
+
+### 14-Sunset
+
+[![Linux Login Screen Sunset]({filename}/images/sunset.jpg)](http://gnome-look.org/content/show.php/Sunset?content=85709)
+
+###### By: Dav87
+
+### 15-Arc Colors
+
+[![Linux Login Screen Arc Colors]({filename}/images/arc-colors.png)](http://gnome-look.org/content/show.php/Arc-Colors+GDM-Walls?content=88305)
+
+###### By: perfectska04
+
+### 16-Toxic
+
+[![Linux Login Screen Toxic]({filename}/images/toxic.jpg)](http://kde-look.org/content/show.php/ToxicTheme+-+Widescreen?content=50771)
+
+###### By: guerrerocarl
 
 ### 17-Clean
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/clean.png)](http://kde-look.org/content/show.php/Clean?content=74405)
+[![Linux Login Screen Clean]({filename}/images/clean.png)](http://kde-look.org/content/show.php/Clean?content=74405)
 
-_By: Simoo_
+###### By: Simoo
 
 ### 18-Porum
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/porum.png)](http://kde-look.org/content/show.php/Porum+KDM+theme?content=82029)
+[![Linux Login Screen Porum]({filename}/images/porum.png)](http://kde-look.org/content/show.php/Porum+KDM+theme?content=82029)
 
-_By:linuzoid_
+###### By:linuzoid
 
 ### 18-Sweet Darkness
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/sweet-darkness.jpg)](http://kde-look.org/content/show.php/Sweet+Darkness+Login+Theme?content=75036)
+[![Linux Login Screen Sweet Darkness]({filename}/images/sweet-darkness.jpg)](http://kde-look.org/content/show.php/Sweet+Darkness+Login+Theme?content=75036)
 
-_By: Snooky (distro logos can be changed)_
+###### By: Snooky (distro logos can be changed)
 
 ### 19-WorldKDM
 
-### [![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/worldkdm.jpg)](http://kde-look.org/content/show.php/WorldKdm?content=75534)
+[![Linux Login Screen WorldKDM]({filename}/images/worldkdm.jpg)](http://kde-look.org/content/show.php/WorldKdm?content=75534)
 
-_By: codicem_
+
+###### By: codicem
 
 ### 20-LoveKDE
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/lovekde.jpg)](http://kde-look.org/content/show.php/LoveKDE+KDM+Theme?content=35843)
+[![Linux Login Screen LoveKDE]({filename}/images/lovekde.jpg)](http://kde-look.org/content/show.php/LoveKDE+KDM+Theme?content=35843)
 
-_By: invernomuto_
+###### By: invernomuto
 
 ### 21-Peace
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/peace.jpg)](http://kde-look.org/content/show.php/peace_kdm-theme?content=64631)
+[![Linux Login Screen Peace]({filename}/images/peace.jpg)](http://kde-look.org/content/show.php/peace_kdm-theme?content=64631)
 
-_By: nico67_
+###### By: nico67
 
 ### 22-Impressions
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/impressions.png)](http://kde-look.org/content/show.php/peace_kdm-theme?content=64631)
+[![Linux Login Screen Impressions]({filename}/images/impressions.png)](http://kde-look.org/content/show.php/peace_kdm-theme?content=64631)
 
-_By: linuzoid_
+###### By: linuzoid
 
 ### 23-Skyline
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/skyline.jpg)](http://kde-look.org/content/show.php/SkyLine+(KDM+Theme)?content=85126)
+[![Linux Login Screen Skyline]({filename}/images/skyline.jpg)](http://kde-look.org/content/show.php/SkyLine+(KDM+Theme)?content=85126)
 
-_By: Soravis_
+###### By: Soravis
 
 ### 24-KdmLinux
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/kdmlinux.jpg)](http://kde-look.org/content/show.php/SkyLine+(KDM+Theme)?content=85126)
+[![Linux Login Screen KdmLinux]({filename}/images/kdmlinux.jpg)](http://kde-look.org/content/show.php/SkyLine+(KDM+Theme)?content=85126)
 
-_By: Codicem_
+###### By: Codicem
 
 ### 25-Earth Abstract
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/earth-abstract.jpg)](http://kde-look.org/content/show.php/Earth-abstract?content=75630)
+[![Linux Login Screen Earth Abstract]({filename}/images/earth-abstract.jpg)](http://kde-look.org/content/show.php/Earth-abstract?content=75630)
 
-_By: repli2dev_
+###### By: repli2dev
 
 ### 26-True Nature
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/true-nature.png)](http://kde-look.org/content/show.php/TrueNature+KDM-Theme?content=43841)
+[![Linux Login Screen True Nature]({filename}/images/true-nature.png)](http://kde-look.org/content/show.php/TrueNature+KDM-Theme?content=43841)
 
-_By: Stanlus_
+###### By: Stanlus
 
-### 27-KDM Ret_ina_
+### 27-KDM Retina
 
-_[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/kdm-retina.jpg)](http://kde-look.org/content/show.php/KDMretina?content=78261)_
+[![Linux Login Screen KDM Retina]({filename}/images/kdm-retina.jpg)](http://kde-look.org/content/show.php/KDMretina?content=78261)
 
-_By: codicem_
+###### By: codicem
 
 ### 28-Xmas KDM
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/xmas-kdm.jpg)](http://kde-look.org/content/show.php/Xmas+KDM?content=71248)
+[![Linux Login Screen Xmas KDM]({filename}/images/xmas-kdm.jpg)](http://kde-look.org/content/show.php/Xmas+KDM?content=71248)
 
-_By: thio83_
+###### By: thio83
 
 ### 29-Flamenco Modern
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/flamenco-modern.jpg)](http://kde-look.org/content/show.php/Flamenco-Modern?content=53400)
+[![Linux Login Screen Flamenco Modern]({filename}/images/flamenco-modern.jpg)](http://kde-look.org/content/show.php/Flamenco-Modern?content=53400)
 
-_By: twi_
+###### By: twi
 
 ### 30-Deep
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/11/deep.jpg)](http://kde-look.org/content/show.php/DEEP?content=39575)
+[![Linux Login Screen Deep]({filename}/images/deep.jpg)](http://kde-look.org/content/show.php/DEEP?content=39575)
 
-_By: mPtTybOB_
+###### By: mPtTybOB

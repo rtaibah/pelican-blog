@@ -1,14 +1,10 @@
----
-title: 'Free, Professional Music Production: A Linux Introduction'
-author: rami_taibah
+title: Free, Professional Music Production: A Linux Introduction
+author: Ian McLean 
 layout: post
 permalink: /2008/10/free-professional-music-production-a-linux-introduction/
-categories:
-- Apps
-- Howto
-tags: 
----
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/music-production.jpg)
+tags: Guest Blog, Linux, Linuxologist, Music Production, Apps
+
+![Music Production]({filename}/images/music-production.jpg)
 
 People who either dabble or work in computing enough are probably used to the idea that some operating systems are better than others as creative platforms; Mac OSX generally seems to be the preferred place for video editing, thanks to the likes of Final Cut Pro. They've also got the fantastic GarageBand program for audio production as part of their iLife suite, and with Windows, ProTools is often considered industry standard when it comes to audio production. But these popular, household names of programs come with a price; often a pretty hefty one, actually. If you're thinking of getting SONAR 8 Studio for your audio needs, be prepared to shell out $369 for it. Today, we're going to explore how with Linux we can make music, and from a software standpoint, it's going to cost us nothing.
 
@@ -17,22 +13,25 @@ Now, when I'm not designing websites with Kompozer or writing articles like this
 Metal music may not be exactly everyone's cup of tea but if there's anything we could all agree on, it's an extremely intense, technically complex and physically demanding style of music --- A perfect guinea pig for pushing an audio production suite to its limits.
 
 An obvious place to start is looking at the numerous Linux distros out there that are specially tailored to multimedia production. [Jacklab Audio Distribution](http://www.jacklab.org), [Ubuntu Studio](http://ubuntu-studio.org) and [Musix GNU+Linux](http://musix.org.ar) are all great examples; once you have them set up, you've already got everything you need to get to recording, once you have all of your required equipment. While all of these distributions have their own arrangements and unique quirks, they've got a few common threads in the software they use.
-\#\# Drumming Without a Drumkit
+
+## Drumming Without a Drumkit
 
 With most music it's preferable to record real live instruments with skilled musicians behind them, but that's not always a viable option --- be it for financial or practical reasons. I've always been a bassist primarily and guitarist when needed, but when it comes to drumming I've no equipment and really, no clue either. All I know is how I want my drums to sound.
 
 Enter [Hydrogen](http://www.hydrogen-music.org), the free, open source advanced drum machine built for Linux. It comes bundled with a good variety of pre-installed drumkit sample sets, all modifiable and expandable. After you've chosen a drum set to use, you've got a pattern editor. Drum patterns can be as fast or long as you desire; from there, the program's song editor can be used to string multiple patterns together to create a complete drum track for use in a song, which can then be exported to WAV for any other program to use.
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/hydrogen.png)
+
+![Hydrogen Music]({filename}/images/hydrogen.png)
 
 Each individual drum can be configured with volume and balance, and have four different effects applied as well. The program comes with a decent set of effects from compression to reverb, all very much required to get your drums sounding just the way you want it. Finally, I can add that Hydrogen has abilities to 'humanize' the drum tracks so they sound a little more random and less machine-like.
 
 With this setup, I was able to produce recorded drums that were blistering fast and decently complex, crisp and clear. Perfect for use in my song.
-\#\# Recording and Mixing
+
+## Recording and Mixing
 
 ProTools is the most commonly heard-of program for controlling recording and mixing, and the Macintosh's GarageBand has received it's fair share of attention too; but they're not the only ones. We've already got [Ardour](http://www.ardour.org), a complete audio workstation, capable of recording, mixing and editing.
 
 The drums are the backbone of my song, and provide the framework that everything else builds on. So, it's a simple matter to import my drum track that I produced in Hydrogen. Then, I can get to producing the rest of the song.
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/ardour-25-small.png)
+![Ardour Screenshot]({filename}/images/ardour-25-small.png)
 
 Sealing off one of the rooms in my house and then padding the walls to reduce echo, (the last time I recorded a demo, we actually used old mattresses -- talk about quick and dirty) I hook a microphone up and set it down just in front of my Peavey guitar amp, plug in my BC Rich and from there I can record my guitar tracks through Ardour. Once that's done, I mic up my bass amp and record my bass tracks with my ESP bass. Finally, all that's left is my vocal track to record and then my fully recorded song is sitting there in Ardour.
 

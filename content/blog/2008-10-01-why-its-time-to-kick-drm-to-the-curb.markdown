@@ -1,18 +1,13 @@
----
 title: Why DRM Should Be Kicked to The Curb
-author: rami_taibah
-layout: post
+author: Ian McLean 
 permalink: /2008/10/why-its-time-to-kick-drm-to-the-curb/
-categories:
-- DRM
-tags: 
----
+tags: DRM, Advocacy, Technology, Microsoft, Adobe, Spore, SecuROM, Linuxologist, Guest Post
 
 _This is a guest post by [Ian McLean](http://golbnikufesin.blogspot.com/), an Australian Linux and Open Source aficionado currently based in Romania._
 
-![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/eliminate-drm.jpg)
+![Eliminate DRM]({filename}/images/eliminate-drm.jpg)
 
-## The Information Age: Where Everything Is Free
+# The Information Age: Where Everything Is Free
 
 I once was having a light conversation with a student friend of mine and told him about OpenOffice.org; I said that it's free to get and use, it does nearly everything that Microsoft Office does for none of the money. It's got a word processor, spreadsheets, maths, presentations...! I asked him if he was interested in trying it out. He told me, of course not. He already has Microsoft Office. It's better than OOo, and thanks to the gift of the Internet, that was free too.
 
@@ -26,15 +21,19 @@ Ever since practically the dawn of recorded media, piracy has been an issue that
 
 Now, with software piracy running totally rampant, the worth of software available on retail shelves begins to sink, and software companies begin losing money. Clearly, this isn't a minor trend to deal with; it's a potential catastrophe and of course, there's plenty of reasons, which are perfectly legitimate, for companies that make their bread from software sales to find a way to curb piracy and keep their user base honest.
 
-![](/blog/wp-content/uploads/2008/10/handcuffs-300x195.jpg)
+![Handcuffs]({filename}/images/handcuffs.jpg)
 
 Software consumers have a binary choice:
-1\. Purchase a legal copy of the software and begin using it legitimately. You pay for the right to use the product entirely legally, and you're able to rest easy knowing that you have legal right to use it.
-2\. Obtain a pirated copy. It's breaking the law, but it's also law that's extremely difficult to be enforced. You're not using it legally, but chances you'll get away scot-free anyway. Obtaining it was quick, simple, and above all, it cost you nothing.
+
+1. Purchase a legal copy of the software and begin using it legitimately. You pay for the right to use the product entirely legally, and you're able to rest easy knowing that you have legal right to use it.
+
+2. Obtain a pirated copy. It's breaking the law, but it's also law that's extremely difficult to be enforced. You're not using it legally, but chances you'll get away scot-free anyway. Obtaining it was quick, simple, and above all, it cost you nothing.
 
 For folks where money doesn't grow on trees and in many cases (I'm looking at you, [Adobe](http://www.adobe.com/products/photoshop/photoshop/)) the software's pricing doesn't exactly correlate with the complexity or quality of the program, option B is going to be the preferred choice for a lot of people. So, software companies, unable to influence their users by mind control, are also left with two main options when they're producing and distributing their software:
-1\. Accept that piracy is going to be there, and help sway customers by giving extra incentives to purchase the product legally. This can come in a number of forms such as exclusive help and support, security updates, extra features via member subscriptions or something similar.
-2\. Design the software in such a way that the software is crippled or deactivated for those deemed to be illegitimate customers, and forcibly limit consumer rights in an effort to wipe out any possibility of illegal use. This includes Digital Rights Management schemes, product activation, rootkits and so on
+
+1. Accept that piracy is going to be there, and help sway customers by giving extra incentives to purchase the product legally. This can come in a number of forms such as exclusive help and support, security updates, extra features via member subscriptions or something similar.
+
+2. Design the software in such a way that the software is crippled or deactivated for those deemed to be illegitimate customers, and forcibly limit consumer rights in an effort to wipe out any possibility of illegal use. This includes Digital Rights Management schemes, product activation, rootkits and so on
 
 Now, this isn't exactly a binary choice. Many companies have opted to use both options here, and to varying degrees. But clearly, if anything's proven by the trends it's that leaning too heavily on option B can have the opposite effect to that which is desired to software companies.
 
@@ -44,7 +43,7 @@ A classic example of this has happened just recently, in the form of a computer 
 
 [SecuROM](http://en.wikipedia.org/wiki/Securom) comes bundled with the game. It's not advertised on the box and for all intents and purposes, the customer is entirely unaware of its inclusion until they've bought it, taken it home and installed it. The software cannot be uninstalled, even if the game is. Upon installation the game must be activated online, and it can only be activated on five different systems. At first this seems to make sense, until it's made clear that the software's methods of determining whether it's a different computer or not aren't bulletproof; changing the computer's hardware may register to the game that it's an entirely different system and thus, another activation is used. After all activations are used, the game will not play and to a completely legitimate consumer, the game is rendered useless. Pouring salt in the wound, the SecuROM software is still bundled even if the game is purchased and downloaded through Steam, itself a powerful anti-piracy measure by its very nature.
 
-[![](http://192.168.1.33/blog2/wp-content/uploads/2008/10/20080509.jpg)](http://192.168.1.33/blog2/wp-content/uploads/2008/10/20080509.jpg)
+![]({filename}/images/20080509.jpg)
 
 The fallout from this calamity is pretty obvious now; the game's [ratings on Amazon average one of five stars](http://www.amazon.com/review/product/B000FKBCX4?_encoding=UTF8&showViewpoints=1) due entirely to the game's DRM measures, and thanks to the friendly pirate community, copies downloaded illegally through file sharing and torrents have had the DRM measures deactivated or removed -- effectively making the pirate copies of the game superior to the real thing. In short, if you buy Spore from a shop, you get a worse version than the one that pirates are getting for free. And what was your crime?
 
@@ -62,4 +61,4 @@ We're in a new age, where information can be generated, modified and exchanged e
 
 If commercial software publishers want to win their audience back, they're only going to accomplish it by penalizing illegal users instead of their legal consumers, and they're only going to do that by giving legit users something that's better.
 
-###### Picture credits: 1- [Zdnet blogs](http://blog/s.zdnet.com) 3-[Penny Arcade Webcomics](http://www.penny-arcade.com)
+###### Picture credits: 1- [Zdnet blogs](http://blog/s.zdnet.com) 2-[Penny Arcade Webcomics](http://www.penny-arcade.com)
