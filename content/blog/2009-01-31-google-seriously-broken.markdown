@@ -1,22 +1,19 @@
----
 title: Google Seriously Broken
-author: rami_taibah
+author: Rami Taibah 
 layout: post
 permalink: /2009/01/google-seriously-broken/
-categories:
-- Internet
-tags: 
----
-Around 3:30 GMT I was googling something, and noticed that ALL search results were labeled with "This site may harm your computer." Initially I brushed it off, and assumed that my company's IT were up to something, didn't really put much thought into it. 30 minutes later I went back home, and found the same problem. I quickly asked a friend of mine in the Netherlands, he seemed to have the same problem. A quick Twitter search confirmed it. Even googling "Google" tells you that Google.com is harmful! And by the looks at the Twitter searches, the problem seems to be across the globe.
-Whats even more frustrating that, even if you decide to ignore the message, Google will not direct you to the page but rather serve you an error page. Google hacked? Or screwed up royally?
-\[![google-down](/blog/wp-content/uploads/2009/01/google-down-1023x590.png)\]\[1\]
+tags: Google
 
-[](http://192.168.1.33/blog2/wp-content/uploads/2009/01/google-down-2.png)[![google-down2](/blog/wp-content/uploads/2009/01/google-down2-1024x584.png)](http://192.168.1.33/blog2/wp-content/uploads/2009/01/google-down2.png)
+Around 3:30 GMT I was googling something, and noticed that ALL search results were labeled with "This site may harm your computer." Initially I brushed it off, and assumed that my company's IT were up to something, didn't really put much thought into it. 30 minutes later I went back home, and found the same problem. I quickly asked a friend of mine in the Netherlands, he seemed to have the same problem. A quick Twitter search confirmed it. Even googling "Google" tells you that Google.com is harmful! And by the looks at the Twitter searches, the problem seems to be across the globe.
+
+Whats even more frustrating that, even if you decide to ignore the message, Google will not direct you to the page but rather serve you an error page. Google hacked? Or screwed up royally?
+
+
+![Google Down 2]({filename}/images/google-down-2.png)
+
 
 **Update:** Marissa Mayers, Google's VP for Search Products and User Experience, has released a blogpost on Google's official blog.  She puts it down to human error after a '/' was mistakenly put in an update sent from the non-profit [StopBadware.org](http://stopbadware.org/) to Google. Resulting in every website in Google's database to be flagged as harmful. Removing the '/' fixed the issue. Here is what she had to say:
 
-[  
-](http://192.168.1.33/blog2/wp-content/uploads/2009/01/google-down-1.png)
 
 > If you did a Google search between 6:30 a.m. PST and 7:25 a.m. PST this morning, you likely saw that the message "This site may harm your computer" accompanied each and every search result. This was clearly an error, and we are very sorry for the inconvenience caused to our users.
 > 
@@ -29,6 +26,5 @@ Whats even more frustrating that, even if you decide to ignore the message, Goog
 > Thanks for your understanding.
 > 
 > **Posted by Marissa Mayer, VP, Search Products & User Experience**
-> 
+ 
 
-\[1\]: http://192.168.1.33/blog2/wp-content/uploads/2009/01/google-down.png
