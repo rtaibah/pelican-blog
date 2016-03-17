@@ -1,8 +1,7 @@
----
-title: 'Mark Shuttleworth: We are our own worst enemy'
+title: Mark Shuttleworth: We are our own worst enemy
 author: Rami Taibah 
 permalink: /2009/02/mark-shuttleworth-we-are-our-own-worst-enemy/
-tags: 
+tags: Linux, Ubuntu, Mark Shuttleworth 
 
 Speaking to German website[Golem.de](http://video.golem.de/list/mark_shuttleworth_-_we_are_our_own_worst_enemy.html), the founder of the Ubuntu desktop, Mark Shuttleworth, spoke freely about how Linux compares to Apple, what he thinks of Windows 7, his thoughts of KDE4, and much more. Watch the two part interview after the jump.
 
