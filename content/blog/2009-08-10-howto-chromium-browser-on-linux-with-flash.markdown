@@ -5,7 +5,6 @@ layout: post
 permalink: /2009/08/howto-chromium-browser-on-linux-with-flash/
 categories: blog Linux
 tags: Chromium Linux Ubuntu Flash
-share: true
 ---
 Chromium is the Open Source project behind Google's browser Chrome. It aims to build a safer, faster, and more stable way for all  users to experience the web. Indeed as I type this on Chromium on an Ubuntu laptop, I can truly feel the speed. While Chromium on Linux is still in the pre-release stage, it does seem very stable, and could very well be a backup browser to Firefox if not completely replace it.
 

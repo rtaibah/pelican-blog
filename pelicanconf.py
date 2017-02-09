@@ -12,6 +12,7 @@ PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
 
 DEFAULT_LANG = u'en'
+THEME = "/Users/rami/pelican-themes/Flex"
 
 
 # Feed generation is usually not desired when developing
@@ -22,10 +23,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Blog', '/category/blog'),
+         ('Books', '/category/books'),
+         ('Portfolio', 'http://jinja.pocoo.org/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/rtaibah'),
