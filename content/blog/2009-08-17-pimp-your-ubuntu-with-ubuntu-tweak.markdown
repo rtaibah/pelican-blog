@@ -1,14 +1,14 @@
 ---
 title: Pimp Your Ubuntu With Ubuntu Tweak!
-author: rami_taibah
+author: Rami Taibah 
 layout: post
 permalink: /2009/08/pimp-your-ubuntu-with-ubuntu-tweak/
-categories: blog Linux 
-tags: Ubuntu Linux Eye-Candy 
+tags: ubuntu,  linux, eye candy 
 ---
+
 Ubuntu has grown to be one of the easiest distros to use which propelled it to be the most [popular Linux ](http://distrowatch.com/)flavor currently available. But guess what? Tweaking Ubuntu has can get a lot easier! The aptly named [Ubuntu Tweak ](http://ubuntu-tweak.com/) is designed to give you direct access to some of the hidden settings. Think of it as TweakUI on Windows.
 
-![Screenshot-Ubuntu Tweak](../../../images/blog/Screenshot-Ubuntu-Tweak.png)
+![Screenshot-Ubuntu Tweak]({filename}/images/Screenshot-Ubuntu-Tweak.png)
 
 ## Ubuntu Tweak Feature List
 

@@ -1,23 +1,24 @@
 ---
-title: 'Installing Software: Tux VS. Bill Gates'
-author: rami_taibah
+title: Installing Software: Tux VS. Bill Gates
+author: Rami Taibah 
 layout: post
-permalink: /2009/09/installing-software-tux-vs-bill-gates/
 categories: Linux Microsoft Blog
-tags: Bill Gates Linux Microsoft Movieplayer
+tags: linux, microsoft 
 ---
-![BILL GATES](../../../images/blog/bill-gates-microsoft-email-leak.jpg)
+
+![BILL GATES]({filename}/images/bill-gates-microsoft-email-leak.jpg)
+
 One of the many tired myths about Linux is that it's very difficult to install software. Many argue why should they type in a command instead of just clicking next, next, check a box, next, and one more next? However Windows isn't really as clear cut as they try to make it sound to be. Last year, an E-mail sent by Bill Gates to some Microsofties was leaked. Bill detailed [his frustrating experience in downloading and installing Windows Movie Maker](http://gizmodo.com/5019516/classic-clips-bill-gates-chews-out-microsoft-over-xp). While Bill's experience is extreme, it illustrates that typing a command isn't so bad after all. Most modern Linux distros have graphical interfaces to install software anyways.
 
-> From: Bill Gates 
+> **From:** Bill Gates 
 >
-> Sent: Wednesday, January 15, 2003 10:05 AM 
+> **Sent**: Wednesday, January 15, 2003 10:05 AM 
 >
-> To: Jim Allchin 
+> **To**: Jim Allchin 
 >
-> Cc: Chris Jones (WINDOWS); Bharat Shah (NT); Joe Peterson; Will Poole; Brian Valentine; Anoop Gupta (RESEARCH) 
+> **Cc**: Chris Jones (WINDOWS); Bharat Shah (NT); Joe Peterson; Will Poole; Brian Valentine; Anoop Gupta (RESEARCH) 
 >
-> Subject: Windows Usability Systematic degradation flame
+> **Subject**: Windows Usability Systematic degradation flame
 >
 > I am quite disappointed at how Windows Usability has been going backwards and the program management groups don't drive usability issues.
 >

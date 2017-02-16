@@ -1,18 +1,19 @@
 ---
-title: 'Howto: Chromium Browser On Linux With Flash'
-author: rami_taibah
+title: Howto: Chromium Browser On Linux With Flash
+author: Rami Taibah 
 layout: post
 permalink: /2009/08/howto-chromium-browser-on-linux-with-flash/
-categories: blog Linux
-tags: Chromium Linux Ubuntu Flash
+tags: chromium, linux, ubuntu, flash
 ---
+
 Chromium is the Open Source project behind Google's browser Chrome. It aims to build a safer, faster, and more stable way for all  users to experience the web. Indeed as I type this on Chromium on an Ubuntu laptop, I can truly feel the speed. While Chromium on Linux is still in the pre-release stage, it does seem very stable, and could very well be a backup browser to Firefox if not completely replace it.
 
-Around last year, we jumped through hoops by means of [Wine and Codeweavers to get Chromium up and running on Linux](/2008/09/chromium-googles-browser-on-linux-and-mac/) (and Mac.) Luckily things have evolved since last year; today we have a daily build of Chromium on Linux, and Ubuntu even has its own [PPA](https://launchpad.net/~chromium-daily/+archive/ppa)!
+Around last year, we jumped through hoops by means of [Wine and Codeweavers to get Chromium up and running on Linux]({filename}/blog/2008-09-28-chromium-googles-browser-on-linux-and-mac.markdown) (and Mac.) Luckily things have evolved since last year; today we have a daily build of Chromium on Linux, and Ubuntu even has its own [PPA](https://launchpad.net/~chromium-daily/+archive/ppa)!
+
 
 If you ever ventured into the Chromium territory on Linux, you will probably be disappointed that Flash doesn't work straight out of the box. However, a very simple hack will solve that and make Chromium a usable browser (we are praying for the day Adobe Flash dies, but thats another issue.)
 
-![Chromium-Linux-Flash](../../../images/blog/Chromium-Linux-Flash1-1024x640.png)
+![Chromium-Linux-Flash]({filename}/images/Chromium-Linux-Flash1-1024x640.png)
 
 If you are on Ubuntu, you should just use the [PPA](https://launchpad.net/~chromium-daily/+archive/ppa). While other distros will probably different ways to get the daily builds (Google is a friend). However getting Flash to work would probably be the same across the board.
 

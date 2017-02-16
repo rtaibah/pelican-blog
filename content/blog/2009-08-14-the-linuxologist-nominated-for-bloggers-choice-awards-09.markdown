@@ -1,14 +1,12 @@
 ---
-title: 'The Linuxologist Nominated For Bloggers Choice Awards 09; Vote and WIN!'
-author: rami_taibah
+title: The Linuxologist Nominated For Bloggers Choice Awards 09; Vote and WIN!
+author: Rami Taibah 
 layout: post
 permalink: /2009/08/the-linuxologist-nominated-for-bloggers-choice-awards-09/
-categories: Blog Linux
-tags: Linux Awards Bloggers-Choice
-share: true
+tags: linuxologist, off-topic
 ---
 
-![bloggers-choice-awards.thumbnail.gif](../../../images/blog/bloggers-choice-awards.png)
+![bloggers-choice-awards{]({filename}/images/bloggers-choice-awards.png)
 
 A reader of The Linuxologist was passionate enough to nominate us for a [Blogger's Choice Award '09](http://bloggerschoiceawards.com) for the best Geek Blog. We really feel honored by this nomination, and if you do enjoy the blog we would really appreciate it if you would take the time to vote for The Linuxologist.
 

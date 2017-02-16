@@ -1,31 +1,34 @@
 ---
 title: Firefox 4.0 Screenshots Released
-author: rami_taibah
+author: Rami Taibah 
 layout: post
 permalink: /2009/07/firefox-4-0-screenshots-released/
-categories:
-- Apps
-tags: 
+tags: firefox, apps, ux
 ---
+
 Just a month ago Mozilla gave us the final version of Firefox 3.5 giving us a lot of nifty features like HTML5, private browsing, smarter session control among others. But Mozilla aren't the kind of people who sit on their laurels, they already posted [screenshots of Firefox 3.7](https://wiki.mozilla.org/Firefox/3.7_Windows_Theme_Mockups) a week ago, and today we have [Mozilla Firefox 4.0 screenshots](https://wiki.mozilla.org/Firefox/4.0_Windows_Theme_Mockups)!
+
 Unfortunately the screenshots are for Windows, none for Linux yet. Also, they warned that these are just a draft for exploration and/or brainstorming.
+
 Basically they are pondering two GUI changes. Tabs location and a combo Stop/Refresh/Go Button.
-\#\# Tabs Location: Top or Bottom?
+
+## Tabs Location: Top or Bottom?
+
 Should tabs be "Tabs-on-Bottom," or the current setting
 
-[![Mockup-4-0-Vista-(TabsBottom)](http://192.168.1.33/blog2/wp-content/uploads/2009/07/Mockup-4-0-Vista-TabsBottom.png)](http://192.168.1.33/blog2/wp-content/uploads/2009/07/Mockup-4-0-Vista-TabsBottom.png)
+![Mockup-4-0-Vista-TabsBottom]({filename}/images/Mockup-4-0-Vista-TabsBottom.png)
 
 Or should they be "Tab-on-Top", or à la Google Chrome
 
-[![Mockup-4-0-Vista-(TabsTop)-(LocBarSearch)](http://192.168.1.33/blog2/wp-content/uploads/2009/07/Mockup-4-0-Vista-TabsTop-LocBarSearch.png)](http://192.168.1.33/blog2/wp-content/uploads/2009/07/Mockup-4-0-Vista-TabsTop-LocBarSearch.png)
+![Mockup-4-0-Vista-TabsTop-LocBarSearch]({filename}/images/Mockup-4-0-Vista-TabsTop-LocBarSearch.png)
 
-**Positives**
+#### Positives
 
 * **Save Vertical Space**
 * **Efficiency/Remove Visual Complexity** -- Right now the tabs have to be connected to something. So we are adding an extra visual element for them to connect to.
 * **Shorter Mouse Distance to Page Controls**
 
-**Negatives**
+#### Negatives
 
 * **Breaks Consistency/Familiarity** -- Moving things confuses existing users.
 * **Title is MIA** -- With the space removed from the titlebar you only get the truncated version in the tab.
@@ -38,17 +41,17 @@ Personally, I am not a fan of this implementation. The MIA title problem really 
 
 This one seems pretty logical. Why have separate stop, refresh, and go buttons? If you are typing a url, the button will change into a **green go** button, while its loading that same button would change into a **red stop **button, and once a page is fully loaded the button changes into a **regular refresh button**.
 
-[![Mockup-4-0-Vista-(TabsBottom)-(LocBar)](/blog/wp-content/uploads/2009/07/Mockup-4-0-Vista-TabsBottom-LocBar-750x1024.png)](http://192.168.1.33/blog2/wp-content/uploads/2009/07/Mockup-4-0-Vista-TabsBottom-LocBar.png)
+![Mockup-4-0-Vista-TabsBottom-LocBar]({filename}/images/Mockup-4-0-Vista-TabsBottom-LocBar-750x1024.png)
 
 Remember, these are just proposed, and like any Open Source project, the feedback from the community plays a big role in the final product.
 
-**Positives**
+#### Positives
 
 * **Save Vertical Space**
 * **Efficiency/Remove Visual Complexity** -- Right now the tabs have to be connected to something. So we are adding an extra visual element for them to connect to.
 * **Shorter Mouse Distance to Page Controls**
 
-**Negatives**
+#### Negatives
 
 * **Breaks Consistency/Familiarity** -- Moving things confuses existing users.
 * **Title is MIA** -- With the space removed from the titlebar you only get the truncated version in the tab.

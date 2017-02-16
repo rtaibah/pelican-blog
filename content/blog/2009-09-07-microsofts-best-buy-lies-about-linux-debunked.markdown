@@ -1,24 +1,24 @@
 ---
-title: 'Microsofts Best Buy Lies About Linux Debunked'
-author: rami_taibah
+title: Microsofts Best Buy Lies About Linux Debunked
+author: Rami Taibah 
 layout: post
 permalink: /2009/09/microsofts-best-buy-lies-about-linux-debunked/
-categories: Blog Linux
-tags: Microsoft Linux FUD Netbooks 
+tags: microsoft, linux, FUD, netbooks, hardware 
 share: true
 ---
 
 In an effort to thwart Linux sales on netbooks, [Microsoft has started a training program at Best Buy to "educate" their "experts" on Linux](http://quaoar.ww7.be/ms_fud_of_the_year/569458-microsoft-attack-linux-retail-level-probably.html). And true to their fashion, MS resorted to FUD (Fear, Uncertainty, and Doubt) and straight out LIES! However, Microsoft still maintains that Linux is not a **threat** to their market, they are just spending all this money to "help" people make an educated decision. Funny thing, is that they ended up promoting Linux.
 
-Over here on The Linuxologist, we already [debunked most of the general myths about Linux](/blog/advocacy/9-linux-myth-debunked/), however this one warrants its own response:
+Over here on The Linuxologist, we already [debunked most of the general myths about Linux]({filename}/blog/2008-08-18-9-linux-myth-debunked.markdown), however this one warrants its own response:
 
-![Linux-MS-FUD1](../../../images/blog/Linux-MS-FUD1.jpg)
+![Linux-MS-FUD1]({filename}/images/Linux-MS-FUD1.jpg)
 
   * **No camera support?** What are we exactly talking about here anyways? Webcams? Or regular digital cameras? Doesn't really matter, both work perfectly fine on Linux, and out of the box in most cases. If we are talking webcams here,  some webcams might require tweaking and hacking. But remember we are talking about netbooks where Linux is pre-installed at the OEM level, so all webcams SHOULD work. Regular digital cameras work also, they would act like any regular USB peripheral.
 
   * **Most MP3 players** sync perfectly fine with Linux. Microsoft doesn't seem to know the difference between iTunes and MP3 player. iPod Touch can prove a bit tricky, but still Songbird among others provide good support. In any case, this is not Linux's problem, but Apple's and their draconian methods.
 
-  * **Printers** work perfectly fine, whether through CUPS or a manufacturers driver. While anecdotal, I have blogged about [my woes of getting an HP printer to work on XP](/blog/advocacy/debunking-the-microsoft-windows-user-friendliness-myth/). The same printer worked out of the box on Ubuntu
+  * **Printers** work perfectly fine, whether through CUPS or a manufacturers driver. While anecdotal, I have blogged about [my woes of getting an HP printer to work on XP]({filename}/blog/2008-07-06-debunking-the-microsoft-windows-user-friendliness-myth.markdown). The same printer worked out of the box on Ubuntu
+
 
   * **Limited software compatibility?** Well if you are talking about software designed specifically for Windows environment, then yes of course it is limited! However there is NOTHING that you would want to run on a netbook that doesn't have a suitable replacement.
 
@@ -30,7 +30,7 @@ Over here on The Linuxologist, we already [debunked most of the general myths ab
 
   * **Video chat** works perfectly fine on Skype, Yahoo, and Live messenger (aMSN, Kopete...etc.) Gmail doesn't yet support video or voice, but they are working on it. However, they do have a testing version ([request here](https://spreadsheets.google.com/a/google.com/viewform?key=0Am_1hJhQWY-4cFlaT1M2V0V3ZmQyZGhsWkkybV9iUlE).) Not sure about other networks, but I am sure they work also.
 
-![Linux-MS-FUD2](../../../images/blog/Linux-MS-FUD2.jpg)
+![Linux-MS-FUD2]({filename}/images/Linux-MS-FUD2.jpg)
 
 Covered most of claims with the first slide but:
 
@@ -42,7 +42,7 @@ Covered most of claims with the first slide but:
 
 * **Office 2007**: OpenOffice
 
-![Linux-MS-FUD3](../../../images/blog/Linux-MS-FUD3.jpg)
+![Linux-MS-FUD3]({filename}/images/Linux-MS-FUD3.jpg)
 
 * **Regular updates**: Yeah because updating is an exclusive domain for Microsoft! Because nothing says secure like an update once every second Tuesday every month!
 
@@ -50,14 +50,14 @@ Covered most of claims with the first slide but:
 
 * **Free downloads**: Linux doesn't need "free" security add-ons, the system is built from the bottom up to be safe! Oh, and the whole OS is free!
 
-![Linux-MS-FUD4](../../../images/blog/Linux-MS-FUD4.jpg)
+![Linux-MS-FUD4]({filename}/images/Linux-MS-FUD4.jpg)
 
 * Funny how they were boasting that they update regularly, then use that same argument against Ubuntu
 
 * It doesn't have to be clear, unlike Windows, Linux doesn't have to reboot after every freakin minor update. Hell you almost NEVER need to reboot, and even when you do, you don't have to do it immediately. The system doesn't nag you about it either!
 
-![Linux-MS-FUD5](../../../images/blog/Linux-MS-FUD5.jpg)
+![Linux-MS-FUD5]({filename}/images/Linux-MS-FUD5.jpg)
 
 LOL, this one actually deserves its own [demotivational poster](http://diy.despair.com/motivator.php). Share them with us. Be creative!
 
-![poster73206117](../../../images/blog/poster73206117.jpg)
+![Microsoft lies motivational]({filename}/images/microsoft-lies-motivational.jpg)
